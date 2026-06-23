@@ -1,123 +1,124 @@
 Haltestelle;Haltestelle_Name;Gleis;Linie;Fahrtrichtung;Ebene;Aufzug_vorhanden;Rolltreppe_vorhanden
-AMG;AmsterdamerStr Guertel;3;16;Niehl Sebastianstr.;Straße;JA;NEIN
-AMG;AmsterdamerStr Guertel;1;13;Thielenbruch;Hochbahn;JA;NEIN
-AMG;AmsterdamerStr Guertel;2;13;Sülzgürtel;Hochbahn;JA;NEIN
-APB;Appellhofplatz Breite Str;1;3;Thielenbruch;U-Bahn;JA;JA
-APB;Appellhofplatz Breite Str;1;4;Schlebusch;U-Bahn;JA;JA
-APB;Appellhofplatz Breite Str;1;16;Bad Godesberg Stadthalle [Ubierring|;U-Bahn;JA;JA
-APB;Appellhofplatz Breite Str;1;18;Bonn Hbf [Klettenbergpark|Schwadorf];U-Bahn;JA;JA
-APB;Appellhofplatz Breite Str;3;3;Görlinger-Zentrum;U-Bahn;JA;JA
-APB;Appellhofplatz Breite Str;3;5;Heumarkt;U-Bahn;JA;JA
-APB;Appellhofplatz Breite Str;3;4;Bocklemünd [Rochusplatz];U-Bahn;JA;JA
-APB;Appellhofplatz Breite Str;2;16;Niehl Sebastianstr.;U-Bahn;JA;JA
-APB;Appellhofplatz Breite Str;4;5;Sparkasse Am Butzweilerhof;U-Bahn;JA;JA
-APB;Appellhofplatz Breite Str;4;18;Buchheim Herler Str. [Reichenspergerplatz];U-Bahn;JA;JA
-ASG;Aachener Str Guertel;3;13;Sülzgürtel;Straße;NEIN;NEIN
-ASG;Aachener Str Guertel;3;7;Zündorf [Neumarkt];Straße;NEIN;NEIN
-ASG;Aachener Str Guertel;3;1;Bensberg [Brück Mauspfad | Refrath];Straße;NEIN;NEIN
-ASG;Aachener Str Guertel;2;7;Frechen-Benzelrath [Frechen Bf];Straße;NEIN;NEIN
-ASG;Aachener Str Guertel;4;7;Zündorf [Neumarkt];Straße;NEIN;NEIN
-ASG;Aachener Str Guertel;4;13;Thielenbruch;Straße;NEIN;NEIN
-BAB;Barbarossaplatz;3;16;Bad Godesberg Stadthalle;Straße;NEIN;NEIN
-BAB;Barbarossaplatz;3;18;Bonn Hbf [Klettenbergpark | Schwadorf];Straße;NEIN;NEIN
-BAB;Barbarossaplatz;1;12;Merkenich [NiehlNord];Straße;NEIN;NEIN
-BAB;Barbarossaplatz;1;15;Chorweiler [Longerich Friedhof];Straße;NEIN;NEIN
-BAB;Barbarossaplatz;4;16;Niehl Sebastianstr.;Straße;NEIN;NEIN
-BAB;Barbarossaplatz;4;18;Buchheim Herler Str. [Reichenspergerplatz];Straße;NEIN;NEIN
-BAB;Barbarossaplatz;2;12;Zollstock Südfriedhof;Straße;NEIN;NEIN
-BAB;Barbarossaplatz;2;15;Ubierring;Straße;NEIN;NEIN
+AMG;AmsterdamerStr Guertel;1;13;Thielenbruch;;JA;NEIN
+AMG;AmsterdamerStr Guertel;2;13;Sülzgürtel;;JA;NEIN
+AMG;AmsterdamerStr Guertel;3;13;Thielenbruch;;JA;NEIN
+AMG;AmsterdamerStr Guertel;4;16;Bad Godesberg Stadthalle [Ubierring|SürthBf |Wesseling|Bonn Hbf];;JA;NEIN
+APB;Appellhofplatz Breite Str;1;3;Thielenbruch;;JA;JA
+APB;Appellhofplatz Breite Str;1;4;Schlebusch;;JA;JA
+APB;Appellhofplatz Breite Str;1;16;Bad Godesberg Stadthalle [Ubierring|;;JA;JA
+APB;Appellhofplatz Breite Str;1;18;Bonn Hbf [Klettenbergpark|Schwadorf];;JA;JA
+APB;Appellhofplatz Breite Str;3;3;Görlinger-Zentrum;;JA;JA
+APB;Appellhofplatz Breite Str;3;5;Heumarkt;;JA;JA
+APB;Appellhofplatz Breite Str;3;4;Bocklemünd [Rochusplatz];;JA;JA
+APB;Appellhofplatz Breite Str;2;16;Niehl Sebastianstr.;;JA;JA
+APB;Appellhofplatz Breite Str;2;5;Sparkasse Am Butzweilerhof 4;;JA;JA
+APB;Appellhofplatz Breite Str;2;18;Buchheim Herler Str. [Reichenspergerplatz];;JA;JA
+ASG;Aachener Str Guertel;3;13;Sülzgürtel;;NEIN;NEIN
+ASG;Aachener Str Guertel;3;7;Zündorf [Neumarkt];;NEIN;NEIN
+ASG;Aachener Str Guertel;3;1;Bensberg [Brück Mauspfad | Refrath];;NEIN;NEIN
+ASG;Aachener Str Guertel;2;7;Frechen-Benzelrath [Frechen Bf];;NEIN;NEIN
+ASG;Aachener Str Guertel;4;7;Zündorf [Neumarkt];;NEIN;NEIN
+ASG;Aachener Str Guertel;4;13;Thielenbruch;;NEIN;NEIN
+BAB;Barbarossaplatz;3;16;Bad Godesberg Stadthalle;;NEIN;NEIN
+BAB;Barbarossaplatz;3;18;Bonn Hbf [Klettenbergpark | Schwadorf];;NEIN;NEIN
+BAB;Barbarossaplatz;1;12;Merkenich [NiehlNord];;NEIN;NEIN
+BAB;Barbarossaplatz;1;15;Chorweiler [Longerich Friedhof];;NEIN;NEIN
+BAB;Barbarossaplatz;4;16;Niehl Sebastianstr.;;NEIN;NEIN
+BAB;Barbarossaplatz;4;18;Buchheim Herler Str. [Reichenspergerplatz];;NEIN;NEIN
+BAB;Barbarossaplatz;2;12;Zollstock Südfriedhof;;NEIN;NEIN
+BAB;Barbarossaplatz;2;15;Ubierring;;NEIN;NEIN
+BFM;Bf Muelheim;8;18;Buchheim Herler Str.;;JA;JA
+BFM;Bf Muelheim;9;13;Sülzgürtel;;JA;JA
+BFM;Bf Muelheim;9;18;Bonn Hbf [Klettenbergpark | Schwadorf];;JA;JA
 BIK;Rochusplatz;2;3;Görlinger-Zentrum;;JA;JA
 BIK;Rochusplatz;2;4;Bocklemünd;;JA;JA
 BIK;Rochusplatz;1;3;Thielenbruch;;JA;JA
 BIK;Rochusplatz;1;4;Schlebusch;;JA;JA
-BRE;Breslauer Platz Hbf;2;16;Niehl Sebastianstr.;U-Bahn;JA;JA
-BRE;Breslauer Platz Hbf;2;18;Buchheim Herler Str. [Reichenspergerplatz];U-Bahn;JA;JA
-BRE;Breslauer Platz Hbf;3;16;Bad Godesberg Stadthalle [Ubierring | Sürth Bf | Wesseling | Bonn Hbf];U-Bahn;JA;JA
-BRE;Breslauer Platz Hbf;3;18;Bonn Hbf [Klettenbergpark | Schwadorf];U-Bahn;JA;JA
-BRE;Breslauer Platz Hbf;3;5;Heumarkt;U-Bahn;JA;JA
-BRE;Breslauer Platz Hbf;1;16;Niehl Sebastianstr.;U-Bahn;JA;JA
-BRE;Breslauer Platz Hbf;1;18;Buchheim Herler Str. [Reichenspergerplatz];U-Bahn;JA;JA
-BRE;Breslauer Platz Hbf;2;16;Bad Godesberg Stadthalle [Ubierring | Sürth Bf | Wesseling | Bonn Hbf];U-Bahn;JA;JA
-BRE;Breslauer Platz Hbf;2;18;Bonn Hbf [Klettenbergpark | Schwadorf];U-Bahn;JA;JA
+BRE;Breslauer Platz Hbf;2;16;Niehl Sebastianstr.;;JA;JA
+BRE;Breslauer Platz Hbf;2;18;Buchheim Herler Str. [Reichenspergerplatz];;JA;JA
+BRE;Breslauer Platz Hbf;3;16;Bad Godesberg Stadthalle [Ubierring | Sürth Bf | Wesseling | Bonn Hbf];;JA;JA
+BRE;Breslauer Platz Hbf;3;18;Bonn Hbf [Klettenbergpark | Schwadorf];;JA;JA
+BRE;Breslauer Platz Hbf;3;5;Heumarkt;;JA;JA
+BRE;Breslauer Platz Hbf;1;16;Niehl Sebastianstr.;;JA;JA
+BRE;Breslauer Platz Hbf;1;18;Buchheim Herler Str. [Reichenspergerplatz];;JA;JA
+BRE;Breslauer Platz Hbf;2;16;Bad Godesberg Stadthalle [Ubierring | Sürth Bf | Wesseling | Bonn Hbf];;JA;JA
+BRE;Breslauer Platz Hbf;2;18;Bonn Hbf [Klettenbergpark | Schwadorf];;JA;JA
 CHW;Chorweiler S;3;15;Ubierring;;JA;JA
-CWP;Chlodwigplatz;3;15;Chorweiler [Longerich Friedhof];Straße;JA;JA
-CWP;Chlodwigplatz;3;16;Niehl Sebastianstr.;Straße;JA;JA
+CWP;Chlodwigplatz;3;15;Chorweiler [Longerich Friedhof];;JA;JA
+CWP;Chlodwigplatz;3;16;Niehl Sebastianstr.;;JA;JA
 CWP;Chlodwigplatz;2;17;Sürth Bf [Rodenkirchen Bf];;JA;JA
 CWP;Chlodwigplatz;2;17;Severinstraße;;JA;JA
-CWP;Chlodwigplatz;4;16;Bad Godesberg;Straße;JA;JA
-DBS;Dasselstr Bf Sued;1;9;Königsforst [Bf Deutz/Messe];Straße;NEIN;NEIN
-DOM;Dom Hbf;2;16;Niehl Sebastianstr.;U-Bahn;JA;JA
-DOM;Dom Hbf;2;18;Buchheim Herler Str. [Reichenspergerplatz];U-Bahn;JA;JA
-DOM;Dom Hbf;3;16;Bad Godesberg Stadthalle [Ubierring | Sürth Bf | Wesseling | Bonn Hbf];U-Bahn;JA;JA
-DOM;Dom Hbf;3;18;Bonn Hbf [Klettenbergpark | Schwadorf];U-Bahn;JA;JA
-DOM;Dom Hbf;3;5;Heumarkt;U-Bahn;JA;JA
-DOM;Dom Hbf;1;16;Niehl Sebastianstr.;U-Bahn;JA;JA
-DOM;Dom Hbf;1;18;Buchheim Herler Str. [Reichenspergerplatz];U-Bahn;JA;JA
-DOM;Dom Hbf;2;16;Bad Godesberg Stadthalle [Ubierring | Sürth Bf | Wesseling | Bonn Hbf];U-Bahn;JA;JA
-DOM;Dom Hbf;2;18;Bonn Hbf [Klettenbergpark | Schwadorf];U-Bahn;JA;JA
-EBP;Ebertplatz;3;16;Bad Godesberg Stadthalle [Ubierring |;U-Bahn;JA;JA
-EBP;Ebertplatz;4;12;Zollstock Südfriedhof;U-Bahn;JA;JA
-EBP;Ebertplatz;4;15;Ubierring;U-Bahn;JA;JA
-EBP;Ebertplatz;1;16;Niehl Sebastianstr.;U-Bahn;JA;JA
-EBP;Ebertplatz;1;18;Buchheim Herler Str. [Reichenspergerplatz];U-Bahn;JA;JA
-FSP;Friesenplatz;4;12;Merkenich [NiehlNord];U-Bahn;NEIN;JA
-FSP;Friesenplatz;4;15;Chorweiler [Longerich Friedhof];U-Bahn;NEIN;JA
-FSP;Friesenplatz;1;3;Görlinger-Zentrum;U-Bahn;NEIN;JA
-FSP;Friesenplatz;1;4;Bocklemünd [Rochusplatz];U-Bahn;NEIN;JA
-FSP;Friesenplatz;1;5;Sparkasse Am Butzweilerhof;U-Bahn;NEIN;JA
-FSP;Friesenplatz;2;3;Thielenbruch;U-Bahn;NEIN;JA
-FSP;Friesenplatz;2;4;Schlebusch;U-Bahn;NEIN;JA
-FSP;Friesenplatz;3;15;Ubierring;U-Bahn;NEIN;JA
-GSP;Geldernstr-Parkguertel;3;13;Thielenbruch;U-Bahn;JA;JA
-HBP;Hans-Boeckler-Platz Bf West;2;3;Görlinger-Zentrum;U-Bahn;JA;JA
-HBP;Hans-Boeckler-Platz Bf West;2;4;Bocklemünd [Rochusplatz];U-Bahn;JA;JA
-HBP;Hans-Boeckler-Platz Bf West;2;5;Sparkasse Am Butzweilerhof;U-Bahn;JA;JA
-HMG;Heumarkt;4;1;Weiden West [Junkersdorf];Straße;JA;JA
-HMG;Heumarkt;4;7;Frechen-Benzelrath [Moltkestr. | Aachener Str. / Gürtel | Frechen Bf ];Straße;JA;JA
-HMG;Heumarkt;4;9;Sülz Hermeskeiler Platz [Universität];Straße;JA;JA
-HMG;Heumarkt;2;5;Sparkasse Am Butzweilerhof;Straße;JA;JA
+CWP;Chlodwigplatz;4;16;Bad Godesberg;;JA;JA
+DBS;Dasselstr Bf Sued;4;12;15 16 18;;NEIN;NEIN
+DOM;Dom Hbf;2;16;Niehl Sebastianstr.;;JA;JA
+DOM;Dom Hbf;2;18;Buchheim Herler Str. [Reichenspergerplatz];;JA;JA
+DOM;Dom Hbf;3;16;Bad Godesberg Stadthalle [Ubierring | Sürth Bf | Wesseling | Bonn Hbf];;JA;JA
+DOM;Dom Hbf;3;18;Bonn Hbf [Klettenbergpark | Schwadorf];;JA;JA
+DOM;Dom Hbf;3;5;Heumarkt;;JA;JA
+DOM;Dom Hbf;1;16;Niehl Sebastianstr.;;JA;JA
+DOM;Dom Hbf;1;18;Buchheim Herler Str. [Reichenspergerplatz];;JA;JA
+DOM;Dom Hbf;2;16;Bad Godesberg Stadthalle [Ubierring | Sürth Bf | Wesseling | Bonn Hbf];;JA;JA
+DOM;Dom Hbf;2;18;Bonn Hbf [Klettenbergpark | Schwadorf];;JA;JA
+EBP;Ebertplatz;3;16;Bad Godesberg Stadthalle [Ubierring |;;JA;JA
+EBP;Ebertplatz;4;12;Zollstock Südfriedhof;;JA;JA
+EBP;Ebertplatz;4;15;Ubierring;;JA;JA
+EBP;Ebertplatz;1;16;Niehl Sebastianstr.;;JA;JA
+EBP;Ebertplatz;1;18;Buchheim Herler Str. [Reichenspergerplatz];;JA;JA
+FSP;Friesenplatz;4;12;Merkenich [NiehlNord];;NEIN;JA
+FSP;Friesenplatz;4;15;Chorweiler [Longerich Friedhof];;NEIN;JA
+FSP;Friesenplatz;1;3;Görlinger-Zentrum;;NEIN;JA
+FSP;Friesenplatz;1;4;Bocklemünd [Rochusplatz];;NEIN;JA
+FSP;Friesenplatz;1;5;Sparkasse Am Butzweilerhof;;NEIN;JA
+FSP;Friesenplatz;2;3;Thielenbruch;;NEIN;JA
+FSP;Friesenplatz;2;4;Schlebusch;;NEIN;JA
+FSP;Friesenplatz;3;15;Ubierring;;NEIN;JA
+GSP;Geldernstr-Parkguertel;4;13;Thielenbruch 3;;JA;JA
+HBP;Hans-Boeckler-Platz Bf West;2;3;Görlinger-Zentrum;;JA;JA
+HBP;Hans-Boeckler-Platz Bf West;2;4;Bocklemünd [Rochusplatz];;JA;JA
+HBP;Hans-Boeckler-Platz Bf West;2;5;Sparkasse Am Butzweilerhof;;JA;JA
 HSR;Hansaring;3;12;Zollstock Südfriedhof;;JA;JA
 HSR;Hansaring;4;12;Merkenich [Niehl Nord];;JA;JA
-KKP;Kalk Kapelle;1;1;Weiden West [Junkersdorf];U-Bahn;JA;JA
-KKP;Kalk Kapelle;1;9;Sülz Hermeskeiler Platz [Universität];U-Bahn;JA;JA
-KKP;Kalk Kapelle;2;1;Bensberg [Brück Mauspfad|Refrath];U-Bahn;JA;JA
-KKP;Kalk Kapelle;2;9;Königsforst;U-Bahn;JA;JA
+KKP;Kalk Kapelle;1;1;Weiden West [Junkersdorf];;JA;JA
+KKP;Kalk Kapelle;1;9;Sülz Hermeskeiler Platz [Universität];;JA;JA
+KKP;Kalk Kapelle;2;1;Bensberg [Brück Mauspfad|Refrath];;JA;JA
+KKP;Kalk Kapelle;2;9;Königsforst;;JA;JA
 LEU;Leuchterstr;1;4;Bocklemünd [Rochusplatz];;NEIN;NEIN
-LGS;Longericher Str;2;15;Ubierring;;NEIN;NEIN
-NEU;Neumarkt;5;1;Weiden West [Junkersdorf];Straße;JA;JA
-NEU;Neumarkt;5;7;Frechen-Benzelrath;Straße;JA;JA
-NEU;Neumarkt;5;7;Frechen-Benzelrath;Straße;JA;JA
-NEU;Neumarkt;5;9;Sülz Hermeskeiler Platz;Straße;JA;JA
-NEU;Neumarkt;3;1;Bensberg [Brück;Straße;JA;JA
-NEU;Neumarkt;3;9;Königsforst;Straße;JA;JA
-NEU;Neumarkt;2;3;Thielenbruch;Straße;JA;JA
-NEU;Neumarkt;2;4;Schlebusch;Straße;JA;JA
-NEU;Neumarkt;2;3;Görlinger-Zentrum;Straße;JA;JA
-NEU;Neumarkt;2;16;Bad Godesberg Stadthalle;Straße;JA;JA
-NEU;Neumarkt;2;4;Bocklemünd [Rochusplatz];Straße;JA;JA
-NEU;Neumarkt;1;16;Niehl Sebastianstr.;Straße;JA;JA
-NEU;Neumarkt;1;18;Bonn Hbf [Klettenbergpark | Schwadorf];Straße;JA;JA
-NEU;Neumarkt;1;18;Buchheim Herler Str. [Reichenspergerplatz];Straße;JA;JA
-NSG;Neusser Str Guertel;3;13;Sülzgürtel;Hochbahn;JA;JA
-NSG;Neusser Str Guertel;4;13;Thielenbruch;Hochbahn;JA;JA
-NSG;Neusser Str Guertel;1;12;Merkenich [Niehl Nord];Hochbahn;JA;JA
-NSG;Neusser Str Guertel;1;15;Chorweiler;Hochbahn;JA;JA
-SEV;Severinstrasse;4;3;Görlinger-Zentrum;Straße;JA;JA
-SEV;Severinstrasse;4;4;Bocklemünd [Rochusplatz];Straße;JA;JA
-SEV;Severinstrasse;3;3;Thielenbruch;Straße;JA;JA
-SLA;Slabystrasse;1;18;Buchheim Herler Str.;;NEIN;NEIN
-SLA;Slabystrasse;4;13;Sülzgürtel;;NEIN;NEIN
+NEU;Neumarkt;5;5;6;;JA;JA
+NEU;Neumarkt;5;1;Weiden West [Junkersdorf];;JA;JA
+NEU;Neumarkt;5;7;Frechen-Benzelrath;;JA;JA
+NEU;Neumarkt;5;7;Frechen-Benzelrath;;JA;JA
+NEU;Neumarkt;5;9;Sülz Hermeskeiler Platz;;JA;JA
+NEU;Neumarkt;3;1;Bensberg [Brück;;JA;JA
+NEU;Neumarkt;3;9;Königsforst;;JA;JA
+NEU;Neumarkt;2;3;Thielenbruch;;JA;JA
+NEU;Neumarkt;2;4;Schlebusch;;JA;JA
+NEU;Neumarkt;2;3;Görlinger-Zentrum;;JA;JA
+NEU;Neumarkt;2;16;Bad Godesberg Stadthalle;;JA;JA
+NEU;Neumarkt;2;4;Bocklemünd [Rochusplatz];;JA;JA
+NEU;Neumarkt;1;16;Niehl Sebastianstr.;;JA;JA
+NEU;Neumarkt;1;18;Bonn Hbf [Klettenbergpark | Schwadorf];;JA;JA
+NEU;Neumarkt;1;18;Buchheim Herler Str. [Reichenspergerplatz];;JA;JA
+NSG;Neusser Str Guertel;1;12;Merkenich [Niehl Nord];;JA;JA
+NSG;Neusser Str Guertel;1;15;Chorweiler;;JA;JA
+SEV;Severinstrasse;4;3;Görlinger-Zentrum;;JA;JA
+SEV;Severinstrasse;4;4;Bocklemünd [Rochusplatz];;JA;JA
+SEV;Severinstrasse;3;3;Thielenbruch;;JA;JA
+SLA;Slabystrasse;3;13;Sülzgürtel 4;;NEIN;NEIN
 SLA;Slabystrasse;3;13;Thielenbruch;;NEIN;NEIN
-SLA;Slabystrasse;2;18;Bonn Hbf [Klettenbergpark|Schwadorf];;NEIN;NEIN
-SZG;Suelzguertel;2;13;Sülzgürtel;Straße;NEIN;NEIN
-SZG;Suelzguertel;1;13;Thielenbruch;Straße;NEIN;NEIN
-SZG;Suelzguertel;3;18;Bonn Hbf [Klettenbergpark | Schwadorf];Straße;NEIN;NEIN
-SZG;Suelzguertel;4;18;Buchheim Herler Str. [Reichenspergerplatz];Straße;NEIN;NEIN
-WPL;Muelheim Wiener Platz;3;4;Bocklemünd [Rochusplatz];Straße;JA;JA
-WPL;Muelheim Wiener Platz;4;4;Schlebusch;Straße;JA;JA
-WPL;Muelheim Wiener Platz;2;13;Sülzgürtel;U-Bahn;JA;JA
-WPL;Muelheim Wiener Platz;2;18;Bonn Hbf [Klettenbergpark | Schwadorf];U-Bahn;JA;JA
-WPL;Muelheim Wiener Platz;1;13;Thielenbruch;U-Bahn;JA;JA
-WPL;Muelheim Wiener Platz;1;18;Buchheim Herler Str.;U-Bahn;JA;JA
+SLA;Slabystrasse;3;1;2;;NEIN;NEIN
+SZG;Suelzguertel;3;13;Thielenbruch 1;;NEIN;NEIN
+SZG;Suelzguertel;3;18;Bonn Hbf [Klettenbergpark | Schwadorf];;NEIN;NEIN
+SZG;Suelzguertel;3;3;4;;NEIN;NEIN
+SZG;Suelzguertel;3;18;Buchheim Herler Str. [Reichenspergerplatz] 4;;NEIN;NEIN
+UNI;Universitaet;3;1;2;;NEIN;NEIN
+VSG;Venloer Str Guertel U Bf;3;13;Sülzgürtel;;JA;JA
+VSG;Venloer Str Guertel U Bf;3;3;Görlinger-Zentrum;;JA;JA
+VSG;Venloer Str Guertel U Bf;2;4;Bocklemünd [Rochusplatz];;JA;JA
+VSG;Venloer Str Guertel U Bf;1;3;Thielenbruch;;JA;JA
+VSG;Venloer Str Guertel U Bf;4;13;Thielenbruch;;JA;JA
+WPL;Muelheim Wiener Platz;2;4;Schlebusch 4;;JA;JA
+WPL;Muelheim Wiener Platz;2;13;Sülzgürtel;;JA;JA
+WPL;Muelheim Wiener Platz;2;18;Bonn Hbf [Klettenbergpark | Schwadorf];;JA;JA
+WPL;Muelheim Wiener Platz;1;13;Thielenbruch;;JA;JA
+WPL;Muelheim Wiener Platz;1;18;Buchheim Herler Str.;;JA;JA
 WRB;Weiden Zentrum;2;1;Weiden West;;NEIN;NEIN
-ZOO;Zoo-Flora;2;18;Buchheim Herler Str.;;NEIN;NEIN

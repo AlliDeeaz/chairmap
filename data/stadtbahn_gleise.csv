@@ -1,16 +1,16 @@
 Kurzname;Haltestelle;Linie;Gleis;Fahrtrichtung;Barrierefreiheit;Ebene;Ausstieg_aus_der_Bahn;Aufzug;Rolltreppe;Rampe;Aufzug_Fahrtrichtung_Hinweis
-ABW;Bonner Wall;17;;;JA;;;;;;A1: Fahrtrichtung: Schönhauser Str. | A2: Fahrtrichtung: Chlodwigplatz
+ABW;Bonner Wall;17;;;JA;;;;;;A1: Fahrtrichtung: Schönhauser Straße | A2: Fahrtrichtung: Chlodwigplatz
 AEB;Am Emberg;4;;;eingeschraenkt;;;;;;
 AKA;Akazienweg;3;;;JA;;;;;;A1: Mittelbahnsteig
 AKA;Akazienweg;4;;;JA;;;;;;A1: Mittelbahnsteig
 AMG;Amsterdamer Straße/Gürtel;13;1;Thielenbruch;JA;Hochbahn;;JA;NEIN;;A1: Fahrtrichtung: Venloer Str/ Gürtel - Sülzgürtel | A2: Fahrtrichtung: Mülheim - Holweide
 AMG;Amsterdamer Straße/Gürtel;13;2;Sülzgürtel;JA;Hochbahn;;JA;NEIN;;A1: Fahrtrichtung: Venloer Str/ Gürtel - Sülzgürtel | A2: Fahrtrichtung: Mülheim - Holweide
-AMG;Amsterdamer Straße/Gürtel;16;3;Niehl Sebastianstr.;eingeschraenkt;Straße;;JA;NEIN;;A1: Fahrtrichtung: Venloer Str/ Gürtel - Sülzgürtel | A2: Fahrtrichtung: Mülheim - Holweide
+AMG;Amsterdamer Straße/Gürtel;16;3;Niehl Sebastianstraße;eingeschraenkt;Straße;;JA;NEIN;;A1: Fahrtrichtung: Venloer Str/ Gürtel - Sülzgürtel | A2: Fahrtrichtung: Mülheim - Holweide
 ANU;Arnulfstraße;18;;;JA;Straße;;;;;
 APB;Appellhofplatz/Breite Straße;16;1;Bad Godesberg Stadthalle [Ubierring|;JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Dom/Hbf - Friesenplatz - Ehrenfeld | A2: Fahrtrichtung: Neumarkt - Barbarossaplatz - Sülz 
-APB;Appellhofplatz/Breite Straße;16;2;Niehl Sebastianstr.;JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Dom/Hbf - Friesenplatz - Ehrenfeld | A2: Fahrtrichtung: Neumarkt - Barbarossaplatz - Sülz 
+APB;Appellhofplatz/Breite Straße;16;2;Niehl Sebastianstraße;JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Dom/Hbf - Friesenplatz - Ehrenfeld | A2: Fahrtrichtung: Neumarkt - Barbarossaplatz - Sülz 
 APB;Appellhofplatz/Breite Straße;18;1;Bonn Hbf [Klettenbergpark|Schwadorf];JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Dom/Hbf - Friesenplatz - Ehrenfeld | A2: Fahrtrichtung: Neumarkt - Barbarossaplatz - Sülz 
-APB;Appellhofplatz/Breite Straße;18;4;Buchheim Herler Str. [Reichenspergerplatz];JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Dom/Hbf - Friesenplatz - Ehrenfeld | A2: Fahrtrichtung: Neumarkt - Barbarossaplatz - Sülz 
+APB;Appellhofplatz/Breite Straße;18;4;Buchheim Herler Straße [Reichenspergerplatz];JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Dom/Hbf - Friesenplatz - Ehrenfeld | A2: Fahrtrichtung: Neumarkt - Barbarossaplatz - Sülz 
 APB;Appellhofplatz/Breite Straße;3;1;Thielenbruch;JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Dom/Hbf - Friesenplatz - Ehrenfeld | A2: Fahrtrichtung: Neumarkt - Barbarossaplatz - Sülz 
 APB;Appellhofplatz/Breite Straße;3;3;Görlinger-Zentrum;JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Dom/Hbf - Friesenplatz - Ehrenfeld | A2: Fahrtrichtung: Neumarkt - Barbarossaplatz - Sülz 
 APB;Appellhofplatz/Breite Straße;4;1;Schlebusch;JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Dom/Hbf - Friesenplatz - Ehrenfeld | A2: Fahrtrichtung: Neumarkt - Barbarossaplatz - Sülz 
@@ -30,9 +30,9 @@ BAB;Barbarossaplatz;12;2;Zollstock Südfriedhof;JA;Straße;No steps;NEIN;NEIN;;
 BAB;Barbarossaplatz;15;1;Chorweiler [Longerich Friedhof];JA;Straße;No steps;NEIN;NEIN;;
 BAB;Barbarossaplatz;15;2;Ubierring;JA;Straße;No steps;NEIN;NEIN;;
 BAB;Barbarossaplatz;16;3;Bad Godesberg Stadthalle;NEIN;Straße;High steps;NEIN;NEIN;;
-BAB;Barbarossaplatz;16;4;Niehl Sebastianstr.;NEIN;Straße;High steps;NEIN;NEIN;;
+BAB;Barbarossaplatz;16;4;Niehl Sebastianstraße;NEIN;Straße;High steps;NEIN;NEIN;;
 BAB;Barbarossaplatz;18;3;Bonn Hbf [Klettenbergpark | Schwadorf];NEIN;Straße;High steps;NEIN;NEIN;;
-BAB;Barbarossaplatz;18;4;Buchheim Herler Str. [Reichenspergerplatz];NEIN;Straße;High steps;NEIN;NEIN;;
+BAB;Barbarossaplatz;18;4;Buchheim Herler Straße [Reichenspergerplatz];NEIN;Straße;High steps;NEIN;NEIN;;
 BAH;Bahnstraße;1;;;JA;Straße;;;;;
 BDK;Bf Deutz/LANXESS arena;3;;;JA;Straße;;;;;
 BDK;Bf Deutz/LANXESS arena;4;;;JA;Straße;;;;;
@@ -52,14 +52,14 @@ BMP;Brück Mauspfad;1;;;JA;;;;;;
 BNO;Brühl Nord;18;;;JA;;;;;;
 BOC;Bocklemünd;3;;;JA;;;;;;
 BOC;Bocklemünd;4;;;JA;;;;;;
-BOT;Boltensternstraße;18;;;JA;;;;;;A1: Fahrtrichtung: Zoo/Flora | A2: Fahrtrichtung: Slabystr.
+BOT;Boltensternstraße;18;;;JA;;;;;;A1: Fahrtrichtung: Zoo/Flora | A2: Fahrtrichtung: Slabystraße
 BRA;Brahmsstraße;7;;;JA;;;;;;
-BRE;Breslauer Platz/Hbf;16;1;Niehl Sebastianstr.;JA;U-Bahn;No steps;JA;JA;;A1: Fahrtrichtung:  Dom/Hbf - Neumarkt | A2: Fahrtrichtung: Ebertplatz - Mülheim
-BRE;Breslauer Platz/Hbf;16;2;Niehl Sebastianstr.;JA;U-Bahn;No steps;JA;JA;;A1: Fahrtrichtung:  Dom/Hbf - Neumarkt | A2: Fahrtrichtung: Ebertplatz - Mülheim
+BRE;Breslauer Platz/Hbf;16;1;Niehl Sebastianstraße;JA;U-Bahn;No steps;JA;JA;;A1: Fahrtrichtung:  Dom/Hbf - Neumarkt | A2: Fahrtrichtung: Ebertplatz - Mülheim
+BRE;Breslauer Platz/Hbf;16;2;Niehl Sebastianstraße;JA;U-Bahn;No steps;JA;JA;;A1: Fahrtrichtung:  Dom/Hbf - Neumarkt | A2: Fahrtrichtung: Ebertplatz - Mülheim
 BRE;Breslauer Platz/Hbf;16;2;Bad Godesberg Stadthalle [Ubierring | Sürth Bf | Wesseling | Bonn Hbf];JA;U-Bahn;No steps;JA;JA;;A1: Fahrtrichtung:  Dom/Hbf - Neumarkt | A2: Fahrtrichtung: Ebertplatz - Mülheim
 BRE;Breslauer Platz/Hbf;16;3;Bad Godesberg Stadthalle [Ubierring | Sürth Bf | Wesseling | Bonn Hbf];JA;U-Bahn;No steps;JA;JA;;A1: Fahrtrichtung:  Dom/Hbf - Neumarkt | A2: Fahrtrichtung: Ebertplatz - Mülheim
-BRE;Breslauer Platz/Hbf;18;1;Buchheim Herler Str. [Reichenspergerplatz];JA;U-Bahn;No steps;JA;JA;;A1: Fahrtrichtung:  Dom/Hbf - Neumarkt | A2: Fahrtrichtung: Ebertplatz - Mülheim
-BRE;Breslauer Platz/Hbf;18;2;Buchheim Herler Str. [Reichenspergerplatz];JA;U-Bahn;No steps;JA;JA;;A1: Fahrtrichtung:  Dom/Hbf - Neumarkt | A2: Fahrtrichtung: Ebertplatz - Mülheim
+BRE;Breslauer Platz/Hbf;18;1;Buchheim Herler Straße [Reichenspergerplatz];JA;U-Bahn;No steps;JA;JA;;A1: Fahrtrichtung:  Dom/Hbf - Neumarkt | A2: Fahrtrichtung: Ebertplatz - Mülheim
+BRE;Breslauer Platz/Hbf;18;2;Buchheim Herler Straße [Reichenspergerplatz];JA;U-Bahn;No steps;JA;JA;;A1: Fahrtrichtung:  Dom/Hbf - Neumarkt | A2: Fahrtrichtung: Ebertplatz - Mülheim
 BRE;Breslauer Platz/Hbf;18;2;Bonn Hbf [Klettenbergpark | Schwadorf];JA;U-Bahn;No steps;JA;JA;;A1: Fahrtrichtung:  Dom/Hbf - Neumarkt | A2: Fahrtrichtung: Ebertplatz - Mülheim
 BRE;Breslauer Platz/Hbf;18;3;Bonn Hbf [Klettenbergpark | Schwadorf];JA;U-Bahn;No steps;JA;JA;;A1: Fahrtrichtung:  Dom/Hbf - Neumarkt | A2: Fahrtrichtung: Ebertplatz - Mülheim
 BRE;Breslauer Platz Hbf;5;3;Heumarkt;;;;JA;JA;;A1: Fahrtrichtung:  Dom/Hbf - Neumarkt | A2: Fahrtrichtung: Ebertplatz - Mülheim
@@ -76,7 +76,7 @@ CHW;Chorweiler;15;3;Ubierring;JA;;;JA;JA;;
 CPH;Christophstraße/Mediapark;12;;;JA;U-Bahn;;;;;A1: Fahrtrichtung: Hansaring | A2: Fahrtrichtung: Friesenplatz
 CPH;Christophstraße/Mediapark;15;;;JA;U-Bahn;;;;;A1: Fahrtrichtung: Hansaring | A2: Fahrtrichtung: Friesenplatz
 CWP;Chlodwigplatz;15;3;Chorweiler [Longerich Friedhof];JA;Straße;;JA;JA;;A1: Mittelbahnsteig
-CWP;Chlodwigplatz;16;3;Niehl Sebastianstr.;NEIN;Straße;stufen;JA;JA;;A1: Mittelbahnsteig
+CWP;Chlodwigplatz;16;3;Niehl Sebastianstraße;NEIN;Straße;stufen;JA;JA;;A1: Mittelbahnsteig
 CWP;Chlodwigplatz;16;4;Bad Godesberg;NEIN;Straße;stufen;JA;JA;;A1: Mittelbahnsteig
 CWP;Chlodwigplatz;17;2;Sürth Bf [Rodenkirchen Bf];;;;JA;JA;;A1: Mittelbahnsteig
 CWP;Chlodwigplatz;17;2;Severinstraße;;;;JA;JA;;A1: Mittelbahnsteig
@@ -85,12 +85,12 @@ DHS;Dellbrück Hauptstraße;13;;;JA;;;;;;
 DHS;Dellbrück Hauptstraße;3;;;JA;;;;;;
 DMP;Dellbrück Mauspfad;13;;;JA;;;;;;
 DMP;Dellbrück Mauspfad;3;;;JA;;;;;;
-DOM;Dom/Hbf;16;1;Niehl Sebastianstr.;JA;U-Bahn;No steps;JA;JA;;A1: Fahrtrichtung: Breslauer Platz - Mülheim | A2: Fahrtrichtung: Appellhofplatz - Bonn | A3: Oberfläche <> Zwischenebene | A4: Zwischenebene <> Hauptbahnhof
-DOM;Dom/Hbf;16;2;Niehl Sebastianstr.;JA;U-Bahn;No steps;JA;JA;;A1: Fahrtrichtung: Breslauer Platz - Mülheim | A2: Fahrtrichtung: Appellhofplatz - Bonn | A3: Oberfläche <> Zwischenebene | A4: Zwischenebene <> Hauptbahnhof
+DOM;Dom/Hbf;16;1;Niehl Sebastianstraße;JA;U-Bahn;No steps;JA;JA;;A1: Fahrtrichtung: Breslauer Platz - Mülheim | A2: Fahrtrichtung: Appellhofplatz - Bonn | A3: Oberfläche <> Zwischenebene | A4: Zwischenebene <> Hauptbahnhof
+DOM;Dom/Hbf;16;2;Niehl Sebastianstraße;JA;U-Bahn;No steps;JA;JA;;A1: Fahrtrichtung: Breslauer Platz - Mülheim | A2: Fahrtrichtung: Appellhofplatz - Bonn | A3: Oberfläche <> Zwischenebene | A4: Zwischenebene <> Hauptbahnhof
 DOM;Dom/Hbf;16;2;Bad Godesberg Stadthalle [Ubierring | Sürth Bf | Wesseling | Bonn Hbf];JA;U-Bahn;No steps;JA;JA;;A1: Fahrtrichtung: Breslauer Platz - Mülheim | A2: Fahrtrichtung: Appellhofplatz - Bonn | A3: Oberfläche <> Zwischenebene | A4: Zwischenebene <> Hauptbahnhof
 DOM;Dom/Hbf;16;3;Bad Godesberg Stadthalle [Ubierring | Sürth Bf | Wesseling | Bonn Hbf];JA;U-Bahn;No steps;JA;JA;;A1: Fahrtrichtung: Breslauer Platz - Mülheim | A2: Fahrtrichtung: Appellhofplatz - Bonn | A3: Oberfläche <> Zwischenebene | A4: Zwischenebene <> Hauptbahnhof
-DOM;Dom/Hbf;18;1;Buchheim Herler Str. [Reichenspergerplatz];JA;U-Bahn;No steps;JA;JA;;A1: Fahrtrichtung: Breslauer Platz - Mülheim | A2: Fahrtrichtung: Appellhofplatz - Bonn | A3: Oberfläche <> Zwischenebene | A4: Zwischenebene <> Hauptbahnhof
-DOM;Dom/Hbf;18;2;Buchheim Herler Str. [Reichenspergerplatz];JA;U-Bahn;No steps;JA;JA;;A1: Fahrtrichtung: Breslauer Platz - Mülheim | A2: Fahrtrichtung: Appellhofplatz - Bonn | A3: Oberfläche <> Zwischenebene | A4: Zwischenebene <> Hauptbahnhof
+DOM;Dom/Hbf;18;1;Buchheim Herler Straße [Reichenspergerplatz];JA;U-Bahn;No steps;JA;JA;;A1: Fahrtrichtung: Breslauer Platz - Mülheim | A2: Fahrtrichtung: Appellhofplatz - Bonn | A3: Oberfläche <> Zwischenebene | A4: Zwischenebene <> Hauptbahnhof
+DOM;Dom/Hbf;18;2;Buchheim Herler Straße [Reichenspergerplatz];JA;U-Bahn;No steps;JA;JA;;A1: Fahrtrichtung: Breslauer Platz - Mülheim | A2: Fahrtrichtung: Appellhofplatz - Bonn | A3: Oberfläche <> Zwischenebene | A4: Zwischenebene <> Hauptbahnhof
 DOM;Dom/Hbf;18;2;Bonn Hbf [Klettenbergpark | Schwadorf];JA;U-Bahn;No steps;JA;JA;;A1: Fahrtrichtung: Breslauer Platz - Mülheim | A2: Fahrtrichtung: Appellhofplatz - Bonn | A3: Oberfläche <> Zwischenebene | A4: Zwischenebene <> Hauptbahnhof
 DOM;Dom/Hbf;18;3;Bonn Hbf [Klettenbergpark | Schwadorf];JA;U-Bahn;No steps;JA;JA;;A1: Fahrtrichtung: Breslauer Platz - Mülheim | A2: Fahrtrichtung: Appellhofplatz - Bonn | A3: Oberfläche <> Zwischenebene | A4: Zwischenebene <> Hauptbahnhof
 DOM;Dom/Hbf;5;3;Heumarkt;JA;U-Bahn;No steps;JA;JA;;A1: Fahrtrichtung: Breslauer Platz - Mülheim | A2: Fahrtrichtung: Appellhofplatz - Bonn | A3: Oberfläche <> Zwischenebene | A4: Zwischenebene <> Hauptbahnhof
@@ -102,11 +102,11 @@ DZB;Deutz Technische Hochschule;9;;;JA;U-Bahn;;;;;
 DZF;Deutzer Freiheit;1;;;eingeschraenkt;U-Bahn;;;;;
 DZF;Deutzer Freiheit;7;;;JA;U-Bahn;;;;;
 DZF;Deutzer Freiheit;9;;;eingeschraenkt;U-Bahn;;;;;
-EBP;Ebertplatz;12;4;Zollstock Südfriedhof;JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Zoo/Flora - Lohsestr. - Niehl | A2: Fahrtrichtung: Hansaring - Dom/Hbf - Bonn
-EBP;Ebertplatz;15;4;Ubierring;JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Zoo/Flora - Lohsestr. - Niehl | A2: Fahrtrichtung: Hansaring - Dom/Hbf - Bonn
-EBP;Ebertplatz;16;1;Niehl Sebastianstr.;JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Zoo/Flora - Lohsestr. - Niehl | A2: Fahrtrichtung: Hansaring - Dom/Hbf - Bonn
-EBP;Ebertplatz;16;3;Bad Godesberg Stadthalle [Ubierring |;JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Zoo/Flora - Lohsestr. - Niehl | A2: Fahrtrichtung: Hansaring - Dom/Hbf - Bonn
-EBP;Ebertplatz;18;1;Buchheim Herler Str. [Reichenspergerplatz];JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Zoo/Flora - Lohsestr. - Niehl | A2: Fahrtrichtung: Hansaring - Dom/Hbf - Bonn
+EBP;Ebertplatz;12;4;Zollstock Südfriedhof;JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Zoo/Flora - Lohsestraße - Niehl | A2: Fahrtrichtung: Hansaring - Dom/Hbf - Bonn
+EBP;Ebertplatz;15;4;Ubierring;JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Zoo/Flora - Lohsestraße - Niehl | A2: Fahrtrichtung: Hansaring - Dom/Hbf - Bonn
+EBP;Ebertplatz;16;1;Niehl Sebastianstraße;JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Zoo/Flora - Lohsestraße - Niehl | A2: Fahrtrichtung: Hansaring - Dom/Hbf - Bonn
+EBP;Ebertplatz;16;3;Bad Godesberg Stadthalle [Ubierring |;JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Zoo/Flora - Lohsestraße - Niehl | A2: Fahrtrichtung: Hansaring - Dom/Hbf - Bonn
+EBP;Ebertplatz;18;1;Buchheim Herler Straße [Reichenspergerplatz];JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Zoo/Flora - Lohsestraße - Niehl | A2: Fahrtrichtung: Hansaring - Dom/Hbf - Bonn
 ECH;Escher Straße;13;;;NEIN;Hochbahn;;;;;
 EFR;Efferen;18;;;JA;;;;;;
 EFS;Eifelstraße;12;;;JA;Straße;;;;;
@@ -122,8 +122,8 @@ FDS;Fuldaer Straße;1;;;NEIN;;;;;;
 FIB;Fischenich;18;;;JA;;;;;;
 FKF;Frankenforst;1;;;JA;;;;;;
 FLE;Flehbachstraße;1;;;JA;;;;;;
-FLO;Florastraße;12;;;JA;U-Bahn;;;;;A1: Fahrtrichtung: Lohsestr. - Zollstock - Chlodwigplatz | A2: Fahrtrichtung: Neusser Str./Gürtel - Chroweiler - Merkenich
-FLO;Florastraße;15;;;JA;U-Bahn;;;;;A1: Fahrtrichtung: Lohsestr. - Zollstock - Chlodwigplatz | A2: Fahrtrichtung: Neusser Str./Gürtel - Chroweiler - Merkenich
+FLO;Florastraße;12;;;JA;U-Bahn;;;;;A1: Fahrtrichtung: Lohsestraße - Zollstock - Chlodwigplatz | A2: Fahrtrichtung: Neusser Straße/Gürtel - Chroweiler - Merkenich
+FLO;Florastraße;15;;;JA;U-Bahn;;;;;A1: Fahrtrichtung: Lohsestraße - Zollstock - Chlodwigplatz | A2: Fahrtrichtung: Neusser Straße/Gürtel - Chroweiler - Merkenich
 FRB;Frechen Bf;7;;;JA;;;;;;
 FRK;Frechen Kirche;7;;;JA;;;;;;
 FRR;Frechen Rathaus;7;;;JA;;;;;;
@@ -144,9 +144,9 @@ GRU;Grünstraße;4;;;JA;Straße;;;;;
 GSG;Gleueler Straße/Gürtel;13;;;NEIN;;;;;;
 GSP;Geldernstraße/Parkgürtel;13;3;Thielenbruch;NEIN;U-Bahn;;JA;JA;;
 GUT;Gutenbergstraße;5;;;JA;Straße;;;;;
-HBP;Hans-Böckler-Platz/Bf West;3;2;Görlinger-Zentrum;JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Friesenplatz - BF Deutz Messe - Mülheim Wiener PLatz | A2: Fahrtrichtung: Piusstr. - Gutenbergstr.
-HBP;Hans-Böckler-Platz/Bf West;4;2;Bocklemünd [Rochusplatz];JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Friesenplatz - BF Deutz Messe - Mülheim Wiener PLatz | A2: Fahrtrichtung: Piusstr. - Gutenbergstr.
-HBP;Hans-Böckler-Platz/Bf West;5;2;Sparkasse Am Butzweilerhof;JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Friesenplatz - BF Deutz Messe - Mülheim Wiener PLatz | A2: Fahrtrichtung: Piusstr. - Gutenbergstr.
+HBP;Hans-Böckler-Platz/Bf West;3;2;Görlinger-Zentrum;JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Friesenplatz - BF Deutz Messe - Mülheim Wiener PLatz | A2: Fahrtrichtung: Piusstraße - Gutenbergstraße
+HBP;Hans-Böckler-Platz/Bf West;4;2;Bocklemünd [Rochusplatz];JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Friesenplatz - BF Deutz Messe - Mülheim Wiener PLatz | A2: Fahrtrichtung: Piusstraße - Gutenbergstraße
+HBP;Hans-Böckler-Platz/Bf West;5;2;Sparkasse Am Butzweilerhof;JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Friesenplatz - BF Deutz Messe - Mülheim Wiener PLatz | A2: Fahrtrichtung: Piusstraße - Gutenbergstraße
 HEI;Heimersdorf;15;;;JA;;;;;;A1: Fahrtrichtung: Chorweiler | A2: Fahrtrichtung: Longerich
 HFD;Herforder Straße;15;;;JA;;;;;;
 HFR;Sportpark Höhenberg;1;;;eingeschraenkt;;;;;;
@@ -154,13 +154,13 @@ HGW;Zollstockgürtel;12;;;JA;Straße;;;;;
 HHB;Hürth-Hermülheim;18;;;JA;;;;;;
 HLU;Heinrich-Lübke-Ufer;16;;;JA;Straße;;;;;
 HLU;Heinrich-Lübke-Ufer;17;;;JA;Straße;;;;;
-HMG;Heumarkt;1;4;Weiden West [Junkersdorf];JA;Straße;;JA;JA;;A1: Fahrtrichtung: Deutzer Freiheit <> Ausgang Kasinostr. | A2: Fahrtrichtung: Neumarkt
-HMG;Heumarkt;5;2;Sparkasse Am Butzweilerhof;JA;Straße;;JA;JA;;A1: Fahrtrichtung: Deutzer Freiheit <> Ausgang Kasinostr. | A2: Fahrtrichtung: Neumarkt
-HMG;Heumarkt;7;4;Frechen-Benzelrath [Moltkestr. | Aachener Str. / Gürtel | Frechen Bf ];JA;Straße;;JA;JA;;A1: Fahrtrichtung: Deutzer Freiheit <> Ausgang Kasinostr. | A2: Fahrtrichtung: Neumarkt
-HMG;Heumarkt;9;4;Sülz Hermeskeiler Platz [Universität];JA;Straße;;JA;JA;;A1: Fahrtrichtung: Deutzer Freiheit <> Ausgang Kasinostr. | A2: Fahrtrichtung: Neumarkt
-HSR;Hansaring;12;3;Zollstock Südfriedhof;JA;;;JA;JA;;A1: Fahrtrichtung: Christophstr. - Friesenplatz - Zollstock - Chlodwigplatz | A2: Fahrtrichtung: Ebertplatz - Chorweiler - Merkenich
-HSR;Hansaring;12;4;Merkenich [Niehl Nord];JA;;;JA;JA;;A1: Fahrtrichtung: Christophstr. - Friesenplatz - Zollstock - Chlodwigplatz | A2: Fahrtrichtung: Ebertplatz - Chorweiler - Merkenich
-HSR;Hansaring;15;;;JA;;;;;;A1: Fahrtrichtung: Christophstr. - Friesenplatz - Zollstock - Chlodwigplatz | A2: Fahrtrichtung: Ebertplatz - Chorweiler - Merkenich
+HMG;Heumarkt;1;4;Weiden West [Junkersdorf];JA;Straße;;JA;JA;;A1: Fahrtrichtung: Deutzer Freiheit <> Ausgang Kasinostraße | A2: Fahrtrichtung: Neumarkt
+HMG;Heumarkt;5;2;Sparkasse Am Butzweilerhof;JA;Straße;;JA;JA;;A1: Fahrtrichtung: Deutzer Freiheit <> Ausgang Kasinostraße | A2: Fahrtrichtung: Neumarkt
+HMG;Heumarkt;7;4;Frechen-Benzelrath [Moltkestraße | Aachener Straße / Gürtel | Frechen Bf ];JA;Straße;;JA;JA;;A1: Fahrtrichtung: Deutzer Freiheit <> Ausgang Kasinostraße | A2: Fahrtrichtung: Neumarkt
+HMG;Heumarkt;9;4;Sülz Hermeskeiler Platz [Universität];JA;Straße;;JA;JA;;A1: Fahrtrichtung: Deutzer Freiheit <> Ausgang Kasinostraße | A2: Fahrtrichtung: Neumarkt
+HSR;Hansaring;12;3;Zollstock Südfriedhof;JA;;;JA;JA;;A1: Fahrtrichtung: Christophstraße - Friesenplatz - Zollstock - Chlodwigplatz | A2: Fahrtrichtung: Ebertplatz - Chorweiler - Merkenich
+HSR;Hansaring;12;4;Merkenich [Niehl Nord];JA;;;JA;JA;;A1: Fahrtrichtung: Christophstraße - Friesenplatz - Zollstock - Chlodwigplatz | A2: Fahrtrichtung: Ebertplatz - Chorweiler - Merkenich
+HSR;Hansaring;15;;;JA;;;;;;A1: Fahrtrichtung: Christophstraße - Friesenplatz - Zollstock - Chlodwigplatz | A2: Fahrtrichtung: Ebertplatz - Chorweiler - Merkenich
 HTH;Herthastraße;12;;;JA;;;;;;
 HVO;Haus Vorst;7;;;eingeschraenkt;;;;;;
 IAK;IKEA Am Butzweilerhof;5;;;JA;Straße;;;;;
@@ -174,10 +174,10 @@ KEU;Keupstraße;4;;;JA;Straße;;;;;
 KGF;Königsforst;9;;;JA;;;;;;
 KIB;Kiebitzweg;18;;;JA;;;;;;
 KIP;Kippekausen;1;;;JA;;;;;;
-KKP;Kalk Kapelle;1;1;Weiden West [Junkersdorf];JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Kalk Post | A2: Fahrtrichtung: Fuldaer Str. - Vingst
-KKP;Kalk Kapelle;1;2;Bensberg [Brück Mauspfad|Refrath];JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Kalk Post | A2: Fahrtrichtung: Fuldaer Str. - Vingst
-KKP;Kalk Kapelle;9;1;Sülz Hermeskeiler Platz [Universität];JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Kalk Post | A2: Fahrtrichtung: Fuldaer Str. - Vingst
-KKP;Kalk Kapelle;9;2;Königsforst;JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Kalk Post | A2: Fahrtrichtung: Fuldaer Str. - Vingst
+KKP;Kalk Kapelle;1;1;Weiden West [Junkersdorf];JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Kalk Post | A2: Fahrtrichtung: Fuldaer Straße - Vingst
+KKP;Kalk Kapelle;1;2;Bensberg [Brück Mauspfad|Refrath];JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Kalk Post | A2: Fahrtrichtung: Fuldaer Straße - Vingst
+KKP;Kalk Kapelle;9;1;Sülz Hermeskeiler Platz [Universität];JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Kalk Post | A2: Fahrtrichtung: Fuldaer Straße - Vingst
+KKP;Kalk Kapelle;9;2;Königsforst;JA;U-Bahn;;JA;JA;;A1: Fahrtrichtung: Kalk Post | A2: Fahrtrichtung: Fuldaer Straße - Vingst
 KKR;Kinderkrankenhaus;16;;;JA;Straße;;;;;
 KLB;Klettenbergpark;18;;;JA;Straße;;;;;
 KNS;Kölner Straße;1;;;JA;;;;;;
@@ -227,30 +227,30 @@ MSO;Koelnmesse;4;;;JA;Straße;;;;;
 MWG;Mohnweg;1;;;JA;;;;;;
 NBS;Nußbaumerstraße;13;;;NEIN;Straße;Hohe Stufen;;;;
 NBS;Nußbaumerstraße;5;;;NEIN;Straße;Hohe Stufen;;;;
-NEU;Neumarkt;1;3;Bensberg [Brück;JA;Straße;;JA;JA;;A1: Fahrtrichtung: Appellhofplatz | A2: Fahrtrichtung: Poststr. | A3: Hugo-Passage <> Neumarkt | A4: Hugo-Passage <> Zeppelinstr. - NeumarktGalerie
-NEU;Neumarkt;1;5;Weiden West [Junkersdorf];JA;Straße;;JA;JA;;A1: Fahrtrichtung: Appellhofplatz | A2: Fahrtrichtung: Poststr. | A3: Hugo-Passage <> Neumarkt | A4: Hugo-Passage <> Zeppelinstr. - NeumarktGalerie
-NEU;Neumarkt;16;1;Niehl Sebastianstr.;JA;Straße;;JA;JA;;A1: Fahrtrichtung: Appellhofplatz | A2: Fahrtrichtung: Poststr. | A3: Hugo-Passage <> Neumarkt | A4: Hugo-Passage <> Zeppelinstr. - NeumarktGalerie
-NEU;Neumarkt;16;2;Bad Godesberg Stadthalle;JA;Straße;;JA;JA;;A1: Fahrtrichtung: Appellhofplatz | A2: Fahrtrichtung: Poststr. | A3: Hugo-Passage <> Neumarkt | A4: Hugo-Passage <> Zeppelinstr. - NeumarktGalerie
-NEU;Neumarkt;18;1;Bonn Hbf [Klettenbergpark | Schwadorf];JA;Straße;;JA;JA;;A1: Fahrtrichtung: Appellhofplatz | A2: Fahrtrichtung: Poststr. | A3: Hugo-Passage <> Neumarkt | A4: Hugo-Passage <> Zeppelinstr. - NeumarktGalerie
-NEU;Neumarkt;18;1;Buchheim Herler Str. [Reichenspergerplatz];JA;Straße;;JA;JA;;A1: Fahrtrichtung: Appellhofplatz | A2: Fahrtrichtung: Poststr. | A3: Hugo-Passage <> Neumarkt | A4: Hugo-Passage <> Zeppelinstr. - NeumarktGalerie
-NEU;Neumarkt;3;2;Thielenbruch;JA;Straße;;JA;JA;;A1: Fahrtrichtung: Appellhofplatz | A2: Fahrtrichtung: Poststr. | A3: Hugo-Passage <> Neumarkt | A4: Hugo-Passage <> Zeppelinstr. - NeumarktGalerie
-NEU;Neumarkt;3;2;Görlinger-Zentrum;JA;Straße;;JA;JA;;A1: Fahrtrichtung: Appellhofplatz | A2: Fahrtrichtung: Poststr. | A3: Hugo-Passage <> Neumarkt | A4: Hugo-Passage <> Zeppelinstr. - NeumarktGalerie
-NEU;Neumarkt;4;2;Schlebusch;JA;Straße;;JA;JA;;A1: Fahrtrichtung: Appellhofplatz | A2: Fahrtrichtung: Poststr. | A3: Hugo-Passage <> Neumarkt | A4: Hugo-Passage <> Zeppelinstr. - NeumarktGalerie
-NEU;Neumarkt;4;2;Bocklemünd [Rochusplatz];JA;Straße;;JA;JA;;A1: Fahrtrichtung: Appellhofplatz | A2: Fahrtrichtung: Poststr. | A3: Hugo-Passage <> Neumarkt | A4: Hugo-Passage <> Zeppelinstr. - NeumarktGalerie
-NEU;Neumarkt;7;5;Frechen-Benzelrath;JA;Straße;;JA;JA;;A1: Fahrtrichtung: Appellhofplatz | A2: Fahrtrichtung: Poststr. | A3: Hugo-Passage <> Neumarkt | A4: Hugo-Passage <> Zeppelinstr. - NeumarktGalerie
-NEU;Neumarkt;7;5;Frechen-Benzelrath;JA;Straße;;JA;JA;;A1: Fahrtrichtung: Appellhofplatz | A2: Fahrtrichtung: Poststr. | A3: Hugo-Passage <> Neumarkt | A4: Hugo-Passage <> Zeppelinstr. - NeumarktGalerie
-NEU;Neumarkt;9;3;Königsforst;JA;Straße;;JA;JA;;A1: Fahrtrichtung: Appellhofplatz | A2: Fahrtrichtung: Poststr. | A3: Hugo-Passage <> Neumarkt | A4: Hugo-Passage <> Zeppelinstr. - NeumarktGalerie
-NEU;Neumarkt;9;5;Sülz Hermeskeiler Platz;JA;Straße;;JA;JA;;A1: Fahrtrichtung: Appellhofplatz | A2: Fahrtrichtung: Poststr. | A3: Hugo-Passage <> Neumarkt | A4: Hugo-Passage <> Zeppelinstr. - NeumarktGalerie
+NEU;Neumarkt;1;3;Bensberg [Brück;JA;Straße;;JA;JA;;A1: Fahrtrichtung: Appellhofplatz | A2: Fahrtrichtung: Poststraße | A3: Hugo-Passage <> Neumarkt | A4: Hugo-Passage <> Zeppelinstraße - NeumarktGalerie
+NEU;Neumarkt;1;5;Weiden West [Junkersdorf];JA;Straße;;JA;JA;;A1: Fahrtrichtung: Appellhofplatz | A2: Fahrtrichtung: Poststraße | A3: Hugo-Passage <> Neumarkt | A4: Hugo-Passage <> Zeppelinstraße - NeumarktGalerie
+NEU;Neumarkt;16;1;Niehl Sebastianstraße;JA;Straße;;JA;JA;;A1: Fahrtrichtung: Appellhofplatz | A2: Fahrtrichtung: Poststraße | A3: Hugo-Passage <> Neumarkt | A4: Hugo-Passage <> Zeppelinstraße - NeumarktGalerie
+NEU;Neumarkt;16;2;Bad Godesberg Stadthalle;JA;Straße;;JA;JA;;A1: Fahrtrichtung: Appellhofplatz | A2: Fahrtrichtung: Poststraße | A3: Hugo-Passage <> Neumarkt | A4: Hugo-Passage <> Zeppelinstraße - NeumarktGalerie
+NEU;Neumarkt;18;1;Bonn Hbf [Klettenbergpark | Schwadorf];JA;Straße;;JA;JA;;A1: Fahrtrichtung: Appellhofplatz | A2: Fahrtrichtung: Poststraße | A3: Hugo-Passage <> Neumarkt | A4: Hugo-Passage <> Zeppelinstraße - NeumarktGalerie
+NEU;Neumarkt;18;1;Buchheim Herler Straße [Reichenspergerplatz];JA;Straße;;JA;JA;;A1: Fahrtrichtung: Appellhofplatz | A2: Fahrtrichtung: Poststraße | A3: Hugo-Passage <> Neumarkt | A4: Hugo-Passage <> Zeppelinstraße - NeumarktGalerie
+NEU;Neumarkt;3;2;Thielenbruch;JA;Straße;;JA;JA;;A1: Fahrtrichtung: Appellhofplatz | A2: Fahrtrichtung: Poststraße | A3: Hugo-Passage <> Neumarkt | A4: Hugo-Passage <> Zeppelinstraße - NeumarktGalerie
+NEU;Neumarkt;3;2;Görlinger-Zentrum;JA;Straße;;JA;JA;;A1: Fahrtrichtung: Appellhofplatz | A2: Fahrtrichtung: Poststraße | A3: Hugo-Passage <> Neumarkt | A4: Hugo-Passage <> Zeppelinstraße - NeumarktGalerie
+NEU;Neumarkt;4;2;Schlebusch;JA;Straße;;JA;JA;;A1: Fahrtrichtung: Appellhofplatz | A2: Fahrtrichtung: Poststraße | A3: Hugo-Passage <> Neumarkt | A4: Hugo-Passage <> Zeppelinstraße - NeumarktGalerie
+NEU;Neumarkt;4;2;Bocklemünd [Rochusplatz];JA;Straße;;JA;JA;;A1: Fahrtrichtung: Appellhofplatz | A2: Fahrtrichtung: Poststraße | A3: Hugo-Passage <> Neumarkt | A4: Hugo-Passage <> Zeppelinstraße - NeumarktGalerie
+NEU;Neumarkt;7;5;Frechen-Benzelrath;JA;Straße;;JA;JA;;A1: Fahrtrichtung: Appellhofplatz | A2: Fahrtrichtung: Poststraße | A3: Hugo-Passage <> Neumarkt | A4: Hugo-Passage <> Zeppelinstraße - NeumarktGalerie
+NEU;Neumarkt;7;5;Frechen-Benzelrath;JA;Straße;;JA;JA;;A1: Fahrtrichtung: Appellhofplatz | A2: Fahrtrichtung: Poststraße | A3: Hugo-Passage <> Neumarkt | A4: Hugo-Passage <> Zeppelinstraße - NeumarktGalerie
+NEU;Neumarkt;9;3;Königsforst;JA;Straße;;JA;JA;;A1: Fahrtrichtung: Appellhofplatz | A2: Fahrtrichtung: Poststraße | A3: Hugo-Passage <> Neumarkt | A4: Hugo-Passage <> Zeppelinstraße - NeumarktGalerie
+NEU;Neumarkt;9;5;Sülz Hermeskeiler Platz;JA;Straße;;JA;JA;;A1: Fahrtrichtung: Appellhofplatz | A2: Fahrtrichtung: Poststraße | A3: Hugo-Passage <> Neumarkt | A4: Hugo-Passage <> Zeppelinstraße - NeumarktGalerie
 NEW;Neuenweg;1;;;JA;;;;;;
 NFS;Neufelder Straße;13;;;JA;;;;;;
 NFS;Neufelder Straße;3;;;JA;;;;;;
 NIL;Niehl Nord;12;;;JA;;;;;;
 NIS;Niehl Sebastianstraße;16;;;JA;Straße;;;;;
 NRO;Nesselrodestraße;16;;;JA;Straße;;;;;
-NSG;Neusser Straße/Gürtel;12;1;Merkenich [Niehl Nord];JA;Hochbahn;;JA;JA;;A1: (U) Fahrtrichtung: Florastr. - Zollstock - Chlodwigplatz <> Ausgang Neusser Str. <> (H) Fahrtrichtung: Amsterdamer Str. - Mülheim | A2: Fahrtrichtung: Mollwitzstr. - Merkenich - Chorweiler <> Ausgang Neusser Str. <> (H) Fahrtrichtung: Geldernstr. - Venloer Str./Gürtel - Sülzgürtel
-NSG;Neusser Straße/Gürtel;13;3;Sülzgürtel;JA;Hochbahn;;JA;JA;;A1: (U) Fahrtrichtung: Florastr. - Zollstock - Chlodwigplatz <> Ausgang Neusser Str. <> (H) Fahrtrichtung: Amsterdamer Str. - Mülheim | A2: Fahrtrichtung: Mollwitzstr. - Merkenich - Chorweiler <> Ausgang Neusser Str. <> (H) Fahrtrichtung: Geldernstr. - Venloer Str./Gürtel - Sülzgürtel
-NSG;Neusser Straße/Gürtel;13;4;Thielenbruch;JA;Hochbahn;;JA;JA;;A1: (U) Fahrtrichtung: Florastr. - Zollstock - Chlodwigplatz <> Ausgang Neusser Str. <> (H) Fahrtrichtung: Amsterdamer Str. - Mülheim | A2: Fahrtrichtung: Mollwitzstr. - Merkenich - Chorweiler <> Ausgang Neusser Str. <> (H) Fahrtrichtung: Geldernstr. - Venloer Str./Gürtel - Sülzgürtel
-NSG;Neusser Straße/Gürtel;15;1;Chorweiler;JA;Hochbahn;;JA;JA;;A1: (U) Fahrtrichtung: Florastr. - Zollstock - Chlodwigplatz <> Ausgang Neusser Str. <> (H) Fahrtrichtung: Amsterdamer Str. - Mülheim | A2: Fahrtrichtung: Mollwitzstr. - Merkenich - Chorweiler <> Ausgang Neusser Str. <> (H) Fahrtrichtung: Geldernstr. - Venloer Str./Gürtel - Sülzgürtel
+NSG;Neusser Straße/Gürtel;12;1;Merkenich [Niehl Nord];JA;Hochbahn;;JA;JA;;A1: (U) Fahrtrichtung: Florastraße - Zollstock - Chlodwigplatz <> Ausgang Neusser Straße <> (H) Fahrtrichtung: Amsterdamer Straße - Mülheim | A2: Fahrtrichtung: Mollwitzstraße - Merkenich - Chorweiler <> Ausgang Neusser Straße <> (H) Fahrtrichtung: Geldernstraße - Venloer Straße/Gürtel - Sülzgürtel
+NSG;Neusser Straße/Gürtel;13;3;Sülzgürtel;JA;Hochbahn;;JA;JA;;A1: (U) Fahrtrichtung: Florastraße - Zollstock - Chlodwigplatz <> Ausgang Neusser Straße <> (H) Fahrtrichtung: Amsterdamer Straße - Mülheim | A2: Fahrtrichtung: Mollwitzstraße - Merkenich - Chorweiler <> Ausgang Neusser Straße <> (H) Fahrtrichtung: Geldernstraße - Venloer Straße/Gürtel - Sülzgürtel
+NSG;Neusser Straße/Gürtel;13;4;Thielenbruch;JA;Hochbahn;;JA;JA;;A1: (U) Fahrtrichtung: Florastraße - Zollstock - Chlodwigplatz <> Ausgang Neusser Straße <> (H) Fahrtrichtung: Amsterdamer Straße - Mülheim | A2: Fahrtrichtung: Mollwitzstraße - Merkenich - Chorweiler <> Ausgang Neusser Straße <> (H) Fahrtrichtung: Geldernstraße - Venloer Straße/Gürtel - Sülzgürtel
+NSG;Neusser Straße/Gürtel;15;1;Chorweiler;JA;Hochbahn;;JA;JA;;A1: (U) Fahrtrichtung: Florastraße - Zollstock - Chlodwigplatz <> Ausgang Neusser Straße <> (H) Fahrtrichtung: Amsterdamer Straße - Mülheim | A2: Fahrtrichtung: Mollwitzstraße - Merkenich - Chorweiler <> Ausgang Neusser Straße <> (H) Fahrtrichtung: Geldernstraße - Venloer Straße/Gürtel - Sülzgürtel
 OBU;Bayenthalgürtel;16;;;JA;Straße;;;;;
 OBU;Bayenthalgürtel;17;;;JA;Straße;;;;;
 ODS;Odenthaler Straße;4;;;JA;;;;;;
@@ -264,10 +264,10 @@ PKI;Poller Kirchweg;7;;;JA;Straße;;;;;
 POH;Pohligstraße;12;;;JA;Straße;;;;;
 POS;Poll Salmstraße;7;;;JA;Straße;;;;;
 POZ;Porzer Straße;9;;;JA;Straße;;;;;
-PSS;Poststraße;16;;;JA;Straße;;;;;A1: Fahrtrichtung: Neumarkt | A2: Fahrtrichtung: Suevenstr. / Barbarossaplatz
-PSS;Poststraße;18;;;JA;Straße;;;;;A1: Fahrtrichtung: Neumarkt | A2: Fahrtrichtung: Suevenstr. / Barbarossaplatz
-PSS;Poststraße;3;;;JA;Straße;;;;;A1: Fahrtrichtung: Neumarkt | A2: Fahrtrichtung: Suevenstr. / Barbarossaplatz
-PSS;Poststraße;4;;;JA;Straße;;;;;A1: Fahrtrichtung: Neumarkt | A2: Fahrtrichtung: Suevenstr. / Barbarossaplatz
+PSS;Poststraße;16;;;JA;Straße;;;;;A1: Fahrtrichtung: Neumarkt | A2: Fahrtrichtung: Suevenstraße / Barbarossaplatz
+PSS;Poststraße;18;;;JA;Straße;;;;;A1: Fahrtrichtung: Neumarkt | A2: Fahrtrichtung: Suevenstraße / Barbarossaplatz
+PSS;Poststraße;3;;;JA;Straße;;;;;A1: Fahrtrichtung: Neumarkt | A2: Fahrtrichtung: Suevenstraße / Barbarossaplatz
+PSS;Poststraße;4;;;JA;Straße;;;;;A1: Fahrtrichtung: Neumarkt | A2: Fahrtrichtung: Suevenstraße / Barbarossaplatz
 PST;Porz Steinstraße;7;;;JA;Straße;;;;;
 PZM;Porz Markt;7;;;JA;Straße;;;;;
 RAI;Raiffeisenstraße;7;;;JA;Straße;;;;;
@@ -286,10 +286,10 @@ RSH;Rosenhügel;7;;;JA;;;;;;
 SBU;Sülzburgstraße;18;;;JA;Straße;;;;;
 SCE;Scheibenstraße;12;;;JA;Straße;;;;;
 SCE;Scheibenstraße;15;;;JA;Straße;;;;;
-SEV;Severinstraße;17;;;JA;Straße;Erhöhter Bahnsteig;;;;A1: Aufzug zur Zwischenebene | A2: Fahrtrichtung: Deutz | A3: Fahrtrichtung: Poststr. | A4: Aufzug zur Straßenebene vor Hotel Mercure
-SEV;Severinstraße;3;3;Thielenbruch;JA;Straße;Erhöhter Bahnsteig;JA;JA;;A1: Aufzug zur Zwischenebene | A2: Fahrtrichtung: Deutz | A3: Fahrtrichtung: Poststr. | A4: Aufzug zur Straßenebene vor Hotel Mercure
-SEV;Severinstraße;3;4;Görlinger-Zentrum;JA;Straße;Erhöhter Bahnsteig;JA;JA;;A1: Aufzug zur Zwischenebene | A2: Fahrtrichtung: Deutz | A3: Fahrtrichtung: Poststr. | A4: Aufzug zur Straßenebene vor Hotel Mercure
-SEV;Severinstraße;4;4;Bocklemünd [Rochusplatz];JA;Straße;Erhöhter Bahnsteig;JA;JA;;A1: Aufzug zur Zwischenebene | A2: Fahrtrichtung: Deutz | A3: Fahrtrichtung: Poststr. | A4: Aufzug zur Straßenebene vor Hotel Mercure
+SEV;Severinstraße;17;;;JA;Straße;Erhöhter Bahnsteig;;;;A1: Aufzug zur Zwischenebene | A2: Fahrtrichtung: Deutz | A3: Fahrtrichtung: Poststraße | A4: Aufzug zur Straßenebene vor Hotel Mercure
+SEV;Severinstraße;3;3;Thielenbruch;JA;Straße;Erhöhter Bahnsteig;JA;JA;;A1: Aufzug zur Zwischenebene | A2: Fahrtrichtung: Deutz | A3: Fahrtrichtung: Poststraße | A4: Aufzug zur Straßenebene vor Hotel Mercure
+SEV;Severinstraße;3;4;Görlinger-Zentrum;JA;Straße;Erhöhter Bahnsteig;JA;JA;;A1: Aufzug zur Zwischenebene | A2: Fahrtrichtung: Deutz | A3: Fahrtrichtung: Poststraße | A4: Aufzug zur Straßenebene vor Hotel Mercure
+SEV;Severinstraße;4;4;Bocklemünd [Rochusplatz];JA;Straße;Erhöhter Bahnsteig;JA;JA;;A1: Aufzug zur Zwischenebene | A2: Fahrtrichtung: Deutz | A3: Fahrtrichtung: Poststraße | A4: Aufzug zur Straßenebene vor Hotel Mercure
 SGH;Stüttgenhof;7;;;eingeschraenkt;;;;;;
 SGS;Siegstraße;16;;;JA;;;;;;
 SGS;Siegstraße;17;;;JA;;;;;;
@@ -298,7 +298,7 @@ SHS;Schönhauser Straße;16;;;JA;Straße;;;;;
 SHS;Schönhauser Straße;17;;;JA;Straße;;;;;
 SLA;Slabystraße;13;3;Thielenbruch;NEIN;;Stufen, Treppen;NEIN;NEIN;;
 SLA;Slabystraße;13;4;Sülzgürtel;NEIN;;Stufen, Treppen;NEIN;NEIN;;
-SLA;Slabystraße;18;1;Buchheim Herler Str.;NEIN;;Stufen, Treppen;NEIN;NEIN;;
+SLA;Slabystraße;18;1;Buchheim Herler Straße;NEIN;;Stufen, Treppen;NEIN;NEIN;;
 SLA;Slabystraße;18;2;Bonn Hbf [Klettenbergpark|Schwadorf];NEIN;;Stufen, Treppen;NEIN;NEIN;;
 SLB;Schlebusch;4;;;JA;;;;;;
 SRG;Schaffrathsgasse;3;;;JA;;;;;;
@@ -316,7 +316,7 @@ SWG;Steinweg;9;;;JA;;;;;;
 SZG;Sülzgürtel;13;1;Thielenbruch;JA;Straße;;NEIN;NEIN;;
 SZG;Sülzgürtel;13;2;Sülzgürtel;JA;Straße;;NEIN;NEIN;;
 SZG;Sülzgürtel;18;3;Bonn Hbf [Klettenbergpark | Schwadorf];JA;Straße;;NEIN;NEIN;;
-SZG;Sülzgürtel;18;4;Buchheim Herler Str. [Reichenspergerplatz];JA;Straße;;NEIN;NEIN;;
+SZG;Sülzgürtel;18;4;Buchheim Herler Straße [Reichenspergerplatz];JA;Straße;;NEIN;NEIN;;
 THB;Thielenbruch;13;;;JA;Straße;;;;;
 THB;Thielenbruch;3;;;JA;Straße;;;;;
 UBI;Ubierring;15;;;JA;Straße;;;;;
@@ -352,7 +352,7 @@ WOF;Wolffsohnstraße;3;;;JA;;;;;;
 WOF;Wolffsohnstraße;4;;;JA;;;;;;
 WPL;Mülheim Wiener Platz;13;1;Thielenbruch;JA;U-Bahn;;JA;JA;;A1: Mittelbahnsteig unten <> Ausgang Frankfurter Straße | A2: Mittelbahnsteig unten <> Linie 4 oben
 WPL;Mülheim Wiener Platz;13;2;Sülzgürtel;JA;U-Bahn;;JA;JA;;A1: Mittelbahnsteig unten <> Ausgang Frankfurter Straße | A2: Mittelbahnsteig unten <> Linie 4 oben
-WPL;Mülheim Wiener Platz;18;1;Buchheim Herler Str.;JA;U-Bahn;;JA;JA;;A1: Mittelbahnsteig unten <> Ausgang Frankfurter Straße | A2: Mittelbahnsteig unten <> Linie 4 oben
+WPL;Mülheim Wiener Platz;18;1;Buchheim Herler Straße;JA;U-Bahn;;JA;JA;;A1: Mittelbahnsteig unten <> Ausgang Frankfurter Straße | A2: Mittelbahnsteig unten <> Linie 4 oben
 WPL;Mülheim Wiener Platz;18;2;Bonn Hbf [Klettenbergpark | Schwadorf];JA;U-Bahn;;JA;JA;;A1: Mittelbahnsteig unten <> Ausgang Frankfurter Straße | A2: Mittelbahnsteig unten <> Linie 4 oben
 WPL;Mülheim Wiener Platz;4;3;Bocklemünd [Rochusplatz];;Straße;;JA;JA;;A1: Mittelbahnsteig unten <> Ausgang Frankfurter Straße | A2: Mittelbahnsteig unten <> Linie 4 oben
 WPL;Mülheim Wiener Platz;4;4;Schlebusch;;Straße;;JA;JA;;A1: Mittelbahnsteig unten <> Ausgang Frankfurter Straße | A2: Mittelbahnsteig unten <> Linie 4 oben
@@ -362,7 +362,7 @@ WSS;Wilhelm-Sollmann-Straße;15;;;JA;;;;;;
 WUE;Wüllnerstraße;13;;;NEIN;;;;;;
 WUE;Wüllnerstraße;7;;;JA;;;;;;
 ZDF;Zündorf;7;;;JA;;;;;;
-ZOO;Zoo-Flora;18;2;Buchheim Herler Str.;;;;NEIN;NEIN;;
+ZOO;Zoo-Flora;18;2;Buchheim Herler Straße;;;;NEIN;NEIN;;
 ZPG;Zülpicher Straße/Gürtel;13;;;NEIN;Straße;Hohe Stufen;;;;
 ZPG;Zülpicher Straße/Gürtel;9;;;JA;Straße;;;;;
 ZPL;Zülpicher Platz;12;;;JA;Straße;;;;;
