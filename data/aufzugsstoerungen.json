@@ -1,0 +1,38 @@
+{
+	"features": [
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.93914933715188,
+					50.9362602546599
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "141-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 141 (Rudolfpl.)",
+				"Haltestellenbereich": "27",
+				"Info": null,
+				"timestamp": "2026-06-13T17:20:32"
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.9988415405293,
+					50.9374716746391
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "091-02",
+				"Bezeichnung": "Aufzug 02 - HÜ 091 (Kalk Post)",
+				"Haltestellenbereich": "512",
+				"Info": null,
+				"timestamp": "2026-06-13T17:20:32"
+			}
+		}
+	]
+}

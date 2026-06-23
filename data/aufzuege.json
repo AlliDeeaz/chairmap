@@ -1,0 +1,1044 @@
+{
+	"features": [
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.95174454518538,
+					50.9487310480783
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "001-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 001 (Hansaring)",
+				"Haltestellenbereich": "36",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.95163529087077,
+					50.9488411735631
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "001-02",
+				"Bezeichnung": "Aufzug 02 - HÜ 001 (Hansaring)",
+				"Haltestellenbereich": "36",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.95936969449574,
+					50.9508285940787
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "002-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 002 (Ebertpl.)",
+				"Haltestellenbereich": "35",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.95906166268508,
+					50.9507797450342
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "002-02",
+				"Bezeichnung": "Aufzug 02 - HÜ 002 (Ebertpl.)",
+				"Haltestellenbereich": "35",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.95383373234958,
+					50.9643271798151
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "006-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 006 (Florastr.)",
+				"Haltestellenbereich": "304",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.9536160741751,
+					50.9645360718557
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "006-02",
+				"Bezeichnung": "Aufzug 02 - HÜ 006 (Florastr.)",
+				"Haltestellenbereich": "304",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.9512641515623,
+					50.9724086652643
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "007-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 007 (Neusser Str./Gürtel)",
+				"Haltestellenbereich": "303",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.95150775150186,
+					50.9722598329672
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "007-02",
+				"Bezeichnung": "Aufzug 02 - HÜ 007 (Neusser Str./Gürtel)",
+				"Haltestellenbereich": "303",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.95781192779762,
+					50.9417834179503
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "011-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 011 (Dom/HBf.)",
+				"Haltestellenbereich": "752",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.95774060396833,
+					50.941942535425
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "011-02",
+				"Bezeichnung": "Aufzug 02 - HÜ 011 (Dom/HBf.)",
+				"Haltestellenbereich": "752",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.95765224814421,
+					50.941851009048
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "011-03",
+				"Bezeichnung": "Aufzug 03 - HÜ 011 (Dom/HBf.)",
+				"Haltestellenbereich": "752",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.95843902766933,
+					50.9421771213754
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "011-04",
+				"Bezeichnung": "Aufzug 04 - HÜ 011 (Dom/HBf.)",
+				"Haltestellenbereich": "752",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.95855507880195,
+					50.9442952871855
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "012-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 012N (Breslauer Pl.)",
+				"Haltestellenbereich": "9",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.95884848683126,
+					50.9443710672469
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "012-02",
+				"Bezeichnung": "Aufzug 02 - HÜ 012N (Breslauer Pl.)",
+				"Haltestellenbereich": "9",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.95966916120892,
+					50.9385578565698
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "013-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 013 (Rathaus)",
+				"Haltestellenbereich": "6",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.95750008809338,
+					50.9350712260341
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "014-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 014 (Heumarkt)",
+				"Haltestellenbereich": "1",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.95795954510149,
+					50.9354912322674
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "014-02",
+				"Bezeichnung": "Aufzug 02 - HÜ 014 (Heumarkt)",
+				"Haltestellenbereich": "1",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.95726935840462,
+					50.9289553133259
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "016-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 016 (Severinstr.)",
+				"Haltestellenbereich": "11",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.95706225208936,
+					50.9290697233928
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "016-02",
+				"Bezeichnung": "Aufzug 02 - HÜ 016 (Severinstr.)",
+				"Haltestellenbereich": "11",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.95699694110323,
+					50.929192476986
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "016-03",
+				"Bezeichnung": "Aufzug 03 - HÜ 016 (Severinstr.)",
+				"Haltestellenbereich": "11",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.95714277531603,
+					50.9293818888381
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "016-04",
+				"Bezeichnung": "Aufzug 04 - HÜ 016 (Severinstr.)",
+				"Haltestellenbereich": "11",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.95843220171899,
+					50.9249493506871
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "017-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 017 (Kartäuserhof)",
+				"Haltestellenbereich": "894",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.95954924018902,
+					50.9213341081105
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "018-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 018 (Chlodwigpl.)",
+				"Haltestellenbereich": "18",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.9609353752313,
+					50.9160965753129
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "019-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 019 (Bonner Wall)",
+				"Haltestellenbereich": "20",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.96117998977522,
+					50.91612268815
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "019-02",
+				"Bezeichnung": "Aufzug 02 - HÜ 019 (Bonner Wall)",
+				"Haltestellenbereich": "20",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.95065134645884,
+					50.9394525559051
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "021-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 021 (Appellhofpl./Breite Str.)",
+				"Haltestellenbereich": "7",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.95043924659358,
+					50.9395565179416
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "021-02",
+				"Bezeichnung": "Aufzug 02 - HÜ 021 (Appellhofpl./Breite Str.)",
+				"Haltestellenbereich": "7",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.95006821195387,
+					50.9320562655866
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "033-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 033 (Poststr.)",
+				"Haltestellenbereich": "3",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.94993863896934,
+					50.932059240582
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "033-02",
+				"Bezeichnung": "Aufzug 02 - HÜ 033 (Poststr.)",
+				"Haltestellenbereich": "3",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.94925450350013,
+					50.9353938303652
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "034-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 034 (Neumarkt)",
+				"Haltestellenbereich": "2",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.9489522347414,
+					50.9353264433367
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "034-02",
+				"Bezeichnung": "Aufzug 02 - HÜ 034 (Neumarkt)",
+				"Haltestellenbereich": "2",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.94877771638907,
+					50.9358125939372
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "034-03",
+				"Bezeichnung": "Aufzug 03 - HÜ 034 (Neumarkt)",
+				"Haltestellenbereich": "2",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.9488565313648,
+					50.9365487066316
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "034-04",
+				"Bezeichnung": "Aufzug 04 - HÜ 034 (Neumarkt)",
+				"Haltestellenbereich": "2",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.90654908617032,
+					51.0123469121086
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "042-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 042 (Heimersdorf)",
+				"Haltestellenbereich": "384",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.90640414717124,
+					51.0123072352974
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "042-02",
+				"Bezeichnung": "Aufzug 02 - HÜ 042 (Heimersdorf)",
+				"Haltestellenbereich": "384",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.00526243480452,
+					50.9615552394524
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "060-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 060 (Mülheim Wiener Pl.)",
+				"Haltestellenbereich": "570",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.00424243255369,
+					50.9618484485716
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "060-02",
+				"Bezeichnung": "Aufzug 02 - HÜ 060 (Mülheim Wiener Pl.)",
+				"Haltestellenbereich": "570",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.0128426885602,
+					50.9569808578685
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "061-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 061 (Bf. Mülheim)",
+				"Haltestellenbereich": "572",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.01205583552631,
+					50.9572243612578
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "061-02",
+				"Bezeichnung": "Aufzug 02 - HÜ 061 (Bf. Mülheim)",
+				"Haltestellenbereich": "572",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.96910237904765,
+					50.9709148222635
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "072-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 072 (Amsterdamer Str./Gürtel)",
+				"Haltestellenbereich": "317",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.96910066934165,
+					50.970796658688
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "072-02",
+				"Bezeichnung": "Aufzug 02 - HÜ 072 (Amsterdamer Str./Gürtel)",
+				"Haltestellenbereich": "317",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.98171251799916,
+					50.9626413550713
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "076-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 076 (Boltensternstr.)",
+				"Haltestellenbereich": "314",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.98161813986634,
+					50.962733752023
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "076-02",
+				"Bezeichnung": "Aufzug 02 - HÜ 076 (Boltensternstr.)",
+				"Haltestellenbereich": "314",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.97857396702444,
+					50.9396980394755
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "083-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 083 (Bf. Deutz/Messe)",
+				"Haltestellenbereich": "802",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.97853756948859,
+					50.9395492586488
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "083-02",
+				"Bezeichnung": "Aufzug 02 - HÜ 083 (Bf. Deutz/Messe)",
+				"Haltestellenbereich": "802",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.97886683374226,
+					50.9394027268847
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "083-03",
+				"Bezeichnung": "Aufzug 03 - HÜ 083 (Bf. Deutz/Messe)",
+				"Haltestellenbereich": "802",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.99806353178903,
+					50.9375891986271
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "091-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 091 (Kalk Post)",
+				"Haltestellenbereich": "512",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.9988415405293,
+					50.9374716746391
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "091-02",
+				"Bezeichnung": "Aufzug 02 - HÜ 091 (Kalk Post)",
+				"Haltestellenbereich": "512",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.00815906427513,
+					50.9389055484746
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "092-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 092 (Kalk Kapelle)",
+				"Haltestellenbereich": "513",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.00824824910457,
+					50.9387301145985
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "092-02",
+				"Bezeichnung": "Aufzug 02 - HÜ 092 (Kalk Kapelle)",
+				"Haltestellenbereich": "513",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.02109021652441,
+					50.932868070954
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "093-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 093 (Vingst)",
+				"Haltestellenbereich": "521",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.02107614465772,
+					50.9327643447338
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "093-02",
+				"Bezeichnung": "Aufzug 02 - HÜ 093 (Vingst)",
+				"Haltestellenbereich": "521",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					7.16140713878485,
+					50.9637675031249
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "100-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 100 (Bensberg)",
+				"Haltestellenbereich": "665",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.93914933715188,
+					50.9362602546599
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "141-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 141 (Rudolfpl.)",
+				"Haltestellenbereich": "27",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.93883874028258,
+					50.9361294257636
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "141-02",
+				"Bezeichnung": "Aufzug 02 - HÜ 141 (Rudolfpl.)",
+				"Haltestellenbereich": "27",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.94231313648874,
+					50.9445170151558
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "143-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 143 (Christophstr./Mediapark)",
+				"Haltestellenbereich": "32",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.94213597158811,
+					50.9446110665816
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "143-02",
+				"Bezeichnung": "Aufzug 02 - HÜ 143 (Christophstr./Mediapark)",
+				"Haltestellenbereich": "32",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.89396435743791,
+					50.9606935301306
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "153-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 153 (Akazienweg)",
+				"Haltestellenbereich": "264",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.90228802311484,
+					50.9569886084004
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "154-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 154 (Rochuspl.)",
+				"Haltestellenbereich": "262",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.90867345811992,
+					50.9548496229372
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "155-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 155 (Leyendeckerstr.)",
+				"Haltestellenbereich": "255",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.91607133386374,
+					50.9506027439757
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "156-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 156 (Venloer Str./Gürtel)",
+				"Haltestellenbereich": "251",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.92061005641744,
+					50.9481927994339
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "157-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 157 (Körnerstr.)",
+				"Haltestellenbereich": "237",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.92571608530008,
+					50.9460667099803
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "158-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 158 (Piusstr.)",
+				"Haltestellenbereich": "236",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.93371368079966,
+					50.9432969928814
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "159-01",
+				"Bezeichnung": "Aufzug 01 - HÜ 159 (Hans-Böckler-Pl./Bf. West)",
+				"Haltestellenbereich": "867",
+				"Info": null
+			}
+		},
+		{
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					6.93364358613231,
+					50.9431919010695
+				]
+			},
+			"geometry_name": "Koordinate",
+			"properties": {
+				"Kennung": "159-02",
+				"Bezeichnung": "Aufzug 02 - HÜ 159 (Hans-Böckler-Pl./Bf. West)",
+				"Haltestellenbereich": "867",
+				"Info": null
+			}
+		}
+	]
+}
