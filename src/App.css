@@ -1340,3 +1340,39 @@ button, input, select, textarea {
 .onboarding-confirm:hover {
   background: #1d4ed8;
 }
+
+/* ── Build-Info / Cache-Reset ───────────────────────────────── */
+.build-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+  padding-top: 8px;
+  border-top: 1px solid #f3f4f6;
+  gap: 8px;
+}
+
+.build-time {
+  font-size: 10px;
+  color: #d1d5db;
+  white-space: nowrap;
+}
+
+.build-reload-btn {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 10px;
+  color: #9ca3af;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 2px 4px;
+  border-radius: 4px;
+  white-space: nowrap;
+}
+
+.build-reload-btn:hover {
+  color: #374151;
+  background: #f3f4f6;
+}

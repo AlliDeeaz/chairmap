@@ -335,6 +335,23 @@ function App() {
       .finally(() => setRefreshing(false))
   }
 
+  async function clearCacheAndReload() {
+    if ('serviceWorker' in navigator) {
+      const regs = await navigator.serviceWorker.getRegistrations()
+      await Promise.all(regs.map(r => r.unregister()))
+    }
+    if ('caches' in window) {
+      const keys = await caches.keys()
+      await Promise.all(keys.map(k => caches.delete(k)))
+    }
+    window.location.reload()
+  }
+
+  const buildTime = new Date(__BUILD_TIME__).toLocaleString('de-DE', {
+    day: '2-digit', month: '2-digit', year: 'numeric',
+    hour: '2-digit', minute: '2-digit'
+  })
+
   useEffect(() => {
     // Eigene, fehlertolerante Fetches: der /stadtbahn-gleise Endpoint ist optional
     // (muss serverseitig erst angelegt werden) und soll die uebrige App nicht blockieren.
@@ -1041,6 +1058,17 @@ function App() {
 
             </div>
           )}
+
+          <div className="build-footer">
+            <span className="build-time">Build {buildTime}</span>
+            <button className="build-reload-btn" onClick={clearCacheAndReload} title="Cache leeren &amp; neu laden">
+              <svg viewBox="0 0 24 24" width="11" height="11" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+                <polyline points="1 4 1 10 7 10"/>
+                <path d="M3.51 15a9 9 0 1 0 .49-3.51"/>
+              </svg>
+              Cache leeren
+            </button>
+          </div>
 
         </div>{/* end control-panel */}
 
