@@ -238,14 +238,27 @@ function App() {
   const [lastUpdated, setLastUpdated] = useState(null)
   const [showSatellite, setShowSatellite] = useState(false)
   const [show3DBuildings, setShow3DBuildings] = useState(true)
-  const [showHelpPopup, setShowHelpPopup] = useState(
-    () => !localStorage.getItem('chairmap-onboarding-seen')
+  const [showLocationPopup, setShowLocationPopup] = useState(
+    () => !localStorage.getItem('chairmap-location-asked')
   )
+  const geolocateRef = useRef(null)
+  const pendingGeolocate = useRef(false)
 
-  function closeHelpPopup(permanent) {
-    setShowHelpPopup(false)
-    if (permanent) localStorage.setItem('chairmap-onboarding-seen', '1')
+  function handleLocationYes() {
+    localStorage.setItem('chairmap-location-asked', '1')
+    setShowLocationPopup(false)
+    if (mapReady && geolocateRef.current) {
+      geolocateRef.current.trigger()
+    } else {
+      pendingGeolocate.current = true
+    }
   }
+
+  function handleLocationNo() {
+    localStorage.setItem('chairmap-location-asked', '1')
+    setShowLocationPopup(false)
+  }
+
   const [mainTab, setMainTab] = useState('aufzuege')
   const [aufzugSubTab, setAufzugSubTab] = useState('alle')
   const [suchtext, setSuchtext] = useState('')
@@ -286,13 +299,10 @@ function App() {
   }, [selectedAufzug])
 
   useEffect(() => {
-    if (!showHelpPopup) return
-    const onKeyDown = e => {
-      if (e.key === 'Escape') closeHelpPopup(false)
-    }
-    window.addEventListener('keydown', onKeyDown)
-    return () => window.removeEventListener('keydown', onKeyDown)
-  }, [showHelpPopup])
+    if (!mapReady || !pendingGeolocate.current || !geolocateRef.current) return
+    pendingGeolocate.current = false
+    geolocateRef.current.trigger()
+  }, [mapReady])
 
   useEffect(() => {
     Promise.all([
@@ -348,15 +358,14 @@ function App() {
       zoom: 13
     })
     map.current.addControl(new maplibregl.NavigationControl(), 'top-right')
-    map.current.addControl(
-      new maplibregl.GeolocateControl({
-        positionOptions: { enableHighAccuracy: true },
-        trackUserLocation: true,
-        showAccuracyCircle: true,
-        showUserHeading: true
-      }),
-      'top-right'
-    )
+    const geolocate = new maplibregl.GeolocateControl({
+      positionOptions: { enableHighAccuracy: true },
+      trackUserLocation: true,
+      showAccuracyCircle: true,
+      showUserHeading: true
+    })
+    geolocateRef.current = geolocate
+    map.current.addControl(geolocate, 'top-right')
     map.current.on('load', () => setMapReady(true))
     map.current.on('click', () => setSelectedAufzug(null))
   }, [])
@@ -1249,54 +1258,15 @@ function App() {
         </aside>
       </div>
 
-      {showHelpPopup && (
-        <div className="onboarding-backdrop" onClick={() => closeHelpPopup(false)}>
-          <div className="onboarding-modal" onClick={e => e.stopPropagation()}>
-            <button className="onboarding-close" onClick={() => closeHelpPopup(false)} aria-label="Schließen">×</button>
-            <h2 className="onboarding-title">Willkommen bei ChairMap ♿</h2>
-            <p className="onboarding-subtitle">Barrierefreie Aufzüge &amp; Haltestellen der KVB in Köln</p>
-
-            <div className="help-groups onboarding-help">
-              <div className="help-section">
-                <p className="help-section-title">Karte bedienen</p>
-                <dl className="help-list">
-                  <div className="help-row"><dt>Standort</dt><dd>Icon rechts auf der Karte</dd></div>
-                  <div className="help-row"><dt>Bewegen</dt><dd>1-Finger-Drag · Linksklick+Drag</dd></div>
-                  <div className="help-row"><dt>Zoomen</dt><dd>Pinch · Mausrad · +/− Buttons</dd></div>
-                  <div className="help-row"><dt>3D-Ansicht</dt><dd>2-Finger hoch/runter · Rechtsklick+Drag</dd></div>
-                  <div className="help-row"><dt>Drehen</dt><dd>2-Finger rotieren · Rechtsklick seitlich</dd></div>
-                  <div className="help-row"><dt>Reset</dt><dd>Kompassnadel oben rechts tippen</dd></div>
-                </dl>
-              </div>
-              <div className="help-section">
-                <p className="help-section-title">Marker &amp; Details</p>
-                <dl className="help-list">
-                  <div className="help-row">
-                    <dt><span className="legend-dot legend-dot--ok" style={{display:'inline-block',marginRight:2}}/><span className="legend-dot legend-dot--bad" style={{display:'inline-block'}}/> Marker</dt>
-                    <dd>Tippen → Aufzug-Details öffnen</dd>
-                  </div>
-                  <div className="help-row"><dt>Haltestelle</dt><dd>Farbigen Punkt tippen</dd></div>
-                  <div className="help-row"><dt>Schließen</dt><dd>× oben rechts in der Sidebar</dd></div>
-                </dl>
-              </div>
-              <div className="help-section">
-                <p className="help-section-title">Layer &amp; Filter</p>
-                <dl className="help-list">
-                  <div className="help-row"><dt>Satellitenansicht</dt><dd>Schalter neben „Satellit"</dd></div>
-                  <div className="help-row"><dt>3D-Ansicht</dt><dd>Schalter neben „3D-Gebäude"</dd></div>
-                  <div className="help-row"><dt>Alle Aufzüge</dt><dd>Aufzüge → „Alle"-Button</dd></div>
-                  <div className="help-row"><dt>Aufzugsstörungen</dt><dd>Aufzüge → „Störungen"-Button</dd></div>
-                  <div className="help-row"><dt>Rolltreppen</dt><dd>Demnächst verfügbar</dd></div>
-                  <div className="help-row"><dt>Stadtbahn-HST</dt><dd>Haltestellen mit Barrierefreiheitsstatus</dd></div>
-                  <div className="help-row"><dt>Bus-HST</dt><dd>Bushaltestellen ein-/ausblenden</dd></div>
-                  <div className="help-row"><dt>Liste</dt><dd>Blauer „Liste"-Button links unten</dd></div>
-                </dl>
-              </div>
-            </div>
-
+      {showLocationPopup && (
+        <div className="onboarding-backdrop">
+          <div className="onboarding-modal location-modal">
+            <div className="location-icon">📍</div>
+            <h2 className="onboarding-title">Standort verwenden?</h2>
+            <p className="location-desc">ChairMap kann deinen aktuellen Standort auf der Karte anzeigen und dir helfen, barrierefreie Aufzüge in deiner Nähe zu finden.</p>
             <div className="onboarding-footer">
-              <button className="onboarding-skip" onClick={() => closeHelpPopup(false)}>Schließen</button>
-              <button className="onboarding-confirm" onClick={() => closeHelpPopup(true)}>Nicht mehr anzeigen</button>
+              <button className="onboarding-skip" onClick={handleLocationNo}>Überspringen</button>
+              <button className="onboarding-confirm" onClick={handleLocationYes}>📍 Standort aktivieren</button>
             </div>
           </div>
         </div>

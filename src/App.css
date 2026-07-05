@@ -1285,23 +1285,21 @@ button, input, select, textarea {
   margin: 0 0 16px;
 }
 
-.onboarding-help {
-  display: block !important;
-  border-top: 1px solid #f3f4f6;
-  padding-top: 4px;
+.location-modal {
+  text-align: center;
+  max-width: 320px;
 }
 
-.onboarding-help .help-section-title {
-  font-size: 12px;
+.location-icon {
+  font-size: 44px;
+  margin-bottom: 12px;
 }
 
-.onboarding-help .help-row dt {
-  font-size: 15px;
-  min-width: 90px;
-}
-
-.onboarding-help .help-row dd {
-  font-size: 15px;
+.location-desc {
+  font-size: 14px;
+  color: #6b7280;
+  line-height: 1.55;
+  margin: 0 0 4px;
 }
 
 .onboarding-footer {
